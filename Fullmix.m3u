@@ -1,7 +1,7 @@
-#EXTM3U
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz"
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/it.xml.gz"
 #EXTINF:-1 group-title="Fullmix",---LAST UPDATE 24/05-2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/rai.png" group-title="Canali RAI",=== Canali RAI===
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
@@ -236,13 +236,13 @@ https://d3pkcyie9gav9y.cloudfront.net/out/v1/fdb9d129ff7f4a7bbc8fe0902122e48f/HL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v2/license?drm-type=widevine
 https://d2op4s24rubfe0.cloudfront.net/out/v1/54acbe71ddae4c9986c03fad1352bc84/HLS_CMAF_DRM/index.m3u8
-#EXTINF:-1 tvg-name="Gambero Rosso" tvg-id="GamberoRosso.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/12adf0b1-bb27-4cf1-b5d3-3e3186c1a726-width200-quality90.png" tvg-chno="32" group-title="Altre tv",Gambero Rosso
+#EXTINF:-1 tvg-name="Gambero Rosso" tvg-id="GamberoRosso.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/12adf0b1-bb27-4cf1-b5d3-3e3186c1a726-width200-quality90.png" tvg-chno="32" group-title="Discovery",Gambero Rosso
 https://www.dailymotion.com/cdn/live/video/x9u215s.mpd?sec=3FE6qHnAR5mSywqiY3XmMw
 #EXTINF:-1 tvg-name="Food Network" tvg-id="foodnetwork.it" channel-id="IT90001094" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/30/d9b01f4c-db7d-3ece-b4f3-18430716bf73.png?w=200&f=PNG&p=true&q=85" tvg-chno="33" group-title="Discovery",Food Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v2/license?drm-type=widevine
 https://d9kc4bu8iry3b.cloudfront.net/out/v1/dcecf7d9fd2b49c59e85a65016ddc255/HLS_CMAF_DRM/index.m3u8
-#EXTINF:-1 tvg-name="Focus" tvg-id="Focus.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/171637742-621859dd-560c-4c8a-b800-93c1b5089b91.png" tvg-chno="35" group-title="Mediaset",Focus
+#EXTINF:-1 tvg-name="Focus" tvg-id="Focus.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/171637742-621859dd-560c-4c8a-b800-93c1b5089b91.png" tvg-chno="35" group-title="Discovery",Focus
 https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest_hd.mpd
 #EXTINF:-1 tvg-name="Discovery" tvg-id="discovery" channel-id="IT31000026G" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/31/3328310f-6d31-30a1-be18-d17a7ecb95cd.png?w=200&f=PNG&p=true&q=85" tvg-chno="37" group-title="Discovery" old="https://d24aqelmrau4kx.cloudfront.net/WBTV_IT_1.m3u8" new="https://d1941a53blim0r.cloudfront.net/Discovery_IT_1.m3u8",Discovery
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -604,20 +604,41 @@ https://videosolutions-wedobigstories-rakuten.amagi.tv/playlist1080p.m3u8
 https://amg02512-nexodigital-amg02512c1-wedotv-eu-871.playouts.now.amagi.tv/playlist/amg02512-nexodigital-houseofdocs-wedotveu/playlist.m3u8
 #EXTINF:-1 tvg-id="Love the Planet" tvg-name="Love the Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700003GR_20230412T042555SQUARE.png_20230412042556.png" group-title="Documentari",Love the Planet
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetitsamsung-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/31/3328310f-6d31-30a1-be18-d17a7ecb95cd.png?w=200&f=PNG&p=true&q=85" group-title="Documentari",Discovery
-https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/30/78ab011b-4d0b-302d-843a-b46d21990e0f.png?w=200&f=PNG&p=true&q=85" group-title="Documentari",DMAX
-https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
-#EXTINF:-1 tvg-id="Real Time" tvg-name="Real Time" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/30/b01ea924-39ae-37e5-bed4-ede324b92524.png?w=200&f=PNG&p=true&q=85" group-title="Documentari",Real Time
-https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/30/8feaae12-cc83-3087-8de6-d8cbbcfaa394.png?w=200&f=PNG&p=true&q=85" group-title="Documentari",HGTV
-https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
-#EXTINF:-1 tvg-id="Turbo" tvg-name="Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Discovery_Turbo.svg/960px-Discovery_Turbo.svg.png" group-title="Documentari",Turbo
-https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
+
+
+#EXTINF:-1 tvg-name="Real Time" tvg-id="RealTime.it" channel-id="IT900007I0" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/30/b01ea924-39ae-37e5-bed4-ede324b92524.png?w=200&f=PNG&p=true&q=85" tvg-chno="31" group-title="Documentari",Real Time
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d2op4s24rubfe0.cloudfront.net/out/v1/54acbe71ddae4c9986c03fad1352bc84/HLS_CMAF_DRM/index.m3u8
+#EXTINF:-1 tvg-name="Gambero Rosso" tvg-id="GamberoRosso.it" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/12adf0b1-bb27-4cf1-b5d3-3e3186c1a726-width200-quality90.png" tvg-chno="32" group-title="Documentari",Gambero Rosso
+https://www.dailymotion.com/cdn/live/video/x9u215s.mpd?sec=3FE6qHnAR5mSywqiY3XmMw
+#EXTINF:-1 tvg-name="Food Network" tvg-id="foodnetwork.it" channel-id="IT90001094" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/30/d9b01f4c-db7d-3ece-b4f3-18430716bf73.png?w=200&f=PNG&p=true&q=85" tvg-chno="33" group-title="Documentari",Food Network
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d9kc4bu8iry3b.cloudfront.net/out/v1/dcecf7d9fd2b49c59e85a65016ddc255/HLS_CMAF_DRM/index.m3u8
+#EXTINF:-1 tvg-name="Focus" tvg-id="Focus.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/03/30/171637742-621859dd-560c-4c8a-b800-93c1b5089b91.png" tvg-chno="35" group-title="Documentari",Focus
+https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest_hd.mpd
+#EXTINF:-1 tvg-name="Discovery" tvg-id="discovery" channel-id="IT31000026G" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/31/3328310f-6d31-30a1-be18-d17a7ecb95cd.png?w=200&f=PNG&p=true&q=85" tvg-chno="37" group-title="Documentari" old="https://d24aqelmrau4kx.cloudfront.net/WBTV_IT_1.m3u8" new="https://d1941a53blim0r.cloudfront.net/Discovery_IT_1.m3u8",Discovery
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d3a5c87efixjp8.cloudfront.net/out/v1/12837340dbdf42f2b13481a5ca6f80b2/HLS_CMAF_DRM/index.m3u8
+#EXTINF:-1 tvg-name="Dmax" tvg-id="DMAX.it" channel-id="IT9000113W" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/30/78ab011b-4d0b-302d-843a-b46d21990e0f.png?w=200&f=PNG&p=true&q=85" tvg-chno="52" group-title="Documentari" old="https://d2j2nqgg7bzth.cloudfront.net/DMAX_IT_1.m3u8",DMAX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d24suwc4j2wvyy.cloudfront.net/out/v1/1ef9705b7c534751889b6e01bb032f80/HLS_CMAF_DRM/index.m3u8
+#EXTINF:-1 tvg-name="HGTV" tvg-id="HGTV.it" channel-id="IT900003FU" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/30/8feaae12-cc83-3087-8de6-d8cbbcfaa394.png?w=200&f=PNG&p=true&q=85" tvg-chno="56" group-title="Documentari" old="https://d1tidto9vz737l.cloudfront.net/HGTV_IT_1.m3u8",HGTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d180olzqm6iw12.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d21emhonubg8zy.cloudfront.net/out/v1/063d830ad098456e8c76bd198dea0122/HLS_CMAF_DRM/index.m3u8
+#EXTINF:-1 tvg-name="Turbo" tvg-id="turbo" channel-id="IT900004Y5" tvg-logo="https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJhdXJvcmEtY29udGVudC1pbWFnZXMiLCJrZXkiOiIxNzY3NTIwMzE3Njk4XzE3NjU1MzA4MTg5MTdfdHVyYm8td2hpdGUucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjI1MH0sInBuZyI6eyJxdWFsaXR5Ijo1NSwicHJvZ3Jlc3NpdmUiOnRydWUsInBhbGV0dGUiOnRydWUsImNvbG91cnMiOjh9fX0=" tvg-chno="59" group-title="Documentari" old="https://d205m6k582pec4.cloudfront.net/Motortrend_IT_1.m3u8",Turbo
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d54or4x1qhv8g.cloudfront.net/drm/v2/license?drm-type=widevine
+https://d1m086gym5403i.cloudfront.net/out/v1/fa965f3d7abe46108988aed4fb3d0ee5/HLS_CMAF_DRM/index.m3u8
 #EXTINF:-1 tvg-id="Motor1" tvg-name="Motor1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000282Q_20250811T173011SQUARE.png" group-title="Documentari",Motor1
 https://jmp2.uk/stvp-IT3000282Q
 #EXTINF:-1 tvg-id="Motoretrò" tvg-name="Motoretrò" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800002CE_20250520T045026SQUARE.png" group-title="Documentari",Motoretrò
 https://jmp2.uk/stvp-IT800002CE
+
 #EXTINF:-1 tvg-id="Rally.TV FAST+" tvg-name="Rally.TV FAST+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1600005VM_20250729T045605SQUARE.png" group-title="Documentari",Rally.TV FAST+
 https://jmp2.uk/stvp-IT1600005VM
 #EXTINF:-1 tvg-id="Sailing Channel" tvg-name="Sailing Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD31000021A_20241022T043819SQUARE.png" group-title="Documentari",Sailing Channel
