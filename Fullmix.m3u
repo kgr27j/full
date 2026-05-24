@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Fullmix",---LAST UPDATE 24/05-2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
+
+
+#EXTINF:-1 tvg-id="=== Rai ===" tvg-name="=== Rai ===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Rai",=== Rai ===
+https://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="Rai 1" tvg-name="Rai 1" tvg-logo="https://www.raiplay.it/dl/img/2016/09/1473661951374Logo-Rai1.png" group-title="Rai",Rai 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="Rai 2" tvg-name="Rai 2" tvg-logo="https://www.raiplay.it/dl/img/2016/09/1473662585214Logo-Rai2.png" group-title="Rai",Rai 2
