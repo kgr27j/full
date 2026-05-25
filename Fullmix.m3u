@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz"
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/it.xml.gz"
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 24/05-2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 25/05-2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/rai.png" group-title="Canali RAI",=== Canali RAI===
@@ -3667,6 +3667,8 @@ https://59d7d6f47d7fc.streamlock.net/jonicaradio/jonicaradio/playlist.m3u8
 https://streamcdnm8-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/324215/zPnHWY2/playlist.m3u8
 #EXTINF:-1 tvg-id="Lady Radio TV" tvg-name="Lady Radio TV" tvg-logo="http://odmsto.com/uploads/tv_image/sm/lady-radio-tv.jpg" group-title="Canali Musicali (Web Radio)",Lady Radio TV
 https://stream12.xdevel.com/video0s978435-2636/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Miami Vice Radio Tv" tvg-name="Miami Vice Radio Tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/miami-vice-radio-tv.jpg" group-title="Canali Musicali (Web Radio)",Match Music
+https://5a1178b42cc03.streamlock.net/MATCHMUSIC/MATCHMUSIC/playlist.m3u8
 #EXTINF:-1 tvg-id="MJ Radio TV" tvg-name="MJ Radio TV" tvg-logo="http://odmsto.com/uploads/tv_image/sm/mj-radio-tv.png" group-title="Canali Musicali (Web Radio)",MJ Radio TV
 https://tivusto.org/sh/mjradio
 #EXTINF:-1 tvg-id="Miami Vice Radio Tv" tvg-name="Miami Vice Radio Tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/miami-vice-radio-tv.jpg" group-title="Canali Musicali (Web Radio)",Miami Vice Radio Tv
