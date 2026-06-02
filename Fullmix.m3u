@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz"
-#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/it.xml.gz"
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 25/05-2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 02/06/2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/rai.png" group-title="Canali RAI",=== Canali RAI===
@@ -283,9 +282,9 @@ https://jmp2.uk/stvp-IT800002CE
 #EXTINF:-1 tvg-id="===Svizzera===" tvg-name="===Svizzera===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Svizzera",===Svizzera===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="RSI La1" tvg-name="RSI La1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/320px-RSI_La_1_2012.svg.png" group-title="Svizzera",RSI La1
-https://netplus.zappr.stream/rsila1hd.m3u8
+https://nl1.dstv.cx/RSILa1/index.m3u8
 #EXTINF:-1 tvg-id="RSI La2" tvg-name="RSI La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/320px-RSI_La_2_2012.svg.png" group-title="Svizzera",RSI La2
-https://netplus.zappr.stream/rsila2hd.m3u8
+https://nl1.dstv.cx/RSILa2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RSI La1 HD" tvg-logo="http://logos25pro.newnamed.pro:25461/images/loghi/RSI_La_1_2012.svg.png" group-title="Svizzera",RSI La1 HD
 http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/11278
