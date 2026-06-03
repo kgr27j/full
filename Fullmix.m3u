@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz"
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 02/06/2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 03/06/2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/rai.png" group-title="Canali RAI",=== Canali RAI===
@@ -286,19 +286,22 @@ https://nl1.dstv.cx/RSILa1/index.m3u8
 #EXTINF:-1 tvg-id="RSI La2" tvg-name="RSI La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/320px-RSI_La_2_2012.svg.png" group-title="Svizzera",RSI La2
 https://nl1.dstv.cx/RSILa2/index.m3u8
 
+#EXTINF:-1 tvg-id="RSI La2" tvg-name="RSI La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/320px-RSI_La_2_2012.svg.png" group-title="Svizzera",RSI La2 link 2
+https://lb.adriatelekom.com/RSILa2/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="RSI La1 HD" tvg-logo="http://logos25pro.newnamed.pro:25461/images/loghi/RSI_La_1_2012.svg.png" group-title="Svizzera",RSI La1 HD
 http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/11278
 #EXTINF:-1 tvg-id="" tvg-name="RSI La2 HD" tvg-logo="http://logos25pro.newnamed.pro:25461/images/loghi/logo_la2.png" group-title="Svizzera",RSI La2 HD
 http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/11276
 
 #EXTINF:-1 tvg-id="RTS 1 (stream mdp)" tvg-name="RTS 1 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 1
-https://netplus.zappr.stream/rts1hd.m3u8
+https://uvotv.zappr.stream/443.m3u8
 #EXTINF:-1 tvg-id="RTS 2 (stream mdp)" tvg-name="RTS 2 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 2
-https://netplus.zappr.stream/rts2hd.m3u8
+https://lb.adriatelekom.com/RTSDEUX/index.m3u8
 #EXTINF:-1 tvg-id="RTS Info HD" tvg-name="RTS Info HD" tvg-logo="" group-title="Svizzera",RTS Info HD
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1 tvg-id="SRF1" tvg-name="SRF1" tvg-logo="" group-title="Svizzera",SRF1 
-https://netplus.zappr.stream/srf1hd.m3u8
+https://ac-014.live.p7s1video.net/f2bf4855/t_014/srf1-ch-hd/cenc-default.m3u8
 #EXTINF:-1 tvg-id="SRF2 " tvg-name="SRF2" tvg-logo="" group-title="Svizzera",SRF2 
 https://netplus.zappr.stream/srf2hd.m3u8
 
