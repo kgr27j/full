@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz"
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 06/06/2026---
+#EXTM3U
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 07/06/2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/rai.png" group-title="Canali RAI",=== Canali RAI===
@@ -170,13 +170,13 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/boing.png" group-title="Canali Mediaset ",Boing
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Mediaset b2" tvg-name="Mediaset b2" tvg-logo="" group-title="Mediaset",Mediaset b2
+#EXTINF:-1 tvg-id="Mediaset b2" tvg-name="Mediaset b2" tvg-logo="" group-title="Canali Mediaset ",Mediaset b2
 https://live02-col.msf.cdn.mediaset.net/live/ch-b2/b2-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Mediaset b3" tvg-name="Mediaset b3" tvg-logo="" group-title="Mediaset",Mediaset b3
+#EXTINF:-1 tvg-id="Mediaset b3" tvg-name="Mediaset b3" tvg-logo="" group-title="Canali Mediaset ",Mediaset b3
 https://live02-col.msf.cdn.mediaset.net/live/ch-b3/b3-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Sport Mediaset" tvg-name="Sport Mediaset" tvg-logo="" group-title="Mediaset",Sport Mediaset
+#EXTINF:-1 tvg-id="Sport Mediaset" tvg-name="Sport Mediaset" tvg-logo="" group-title="Canali Mediaset ",Sport Mediaset
 https://live02-col.msf.cdn.mediaset.net/live/ch-b4/b4-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Mediaset Italia" tvg-name="Mediaset Italia" tvg-logo="" group-title="Mediaset",Mediaset Italia
+#EXTINF:-1 tvg-id="Mediaset Italia" tvg-name="Mediaset Italia" tvg-logo="" group-title="Canali Mediaset ",Mediaset Italia
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 
 
@@ -296,6 +296,8 @@ http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/11276
 
 #EXTINF:-1 tvg-id="RTS 1 (stream mdp)" tvg-name="RTS 1 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 1
 https://uvotv.zappr.stream/443.m3u8
+#EXTINF:-1 tvg-id="RTS 1 (stream mdp)" tvg-name="RTS 1 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 1
+https://lb.adriatelekom.com/RTSUN/index.m3u8
 #EXTINF:-1 tvg-id="RTS 2 (stream mdp)" tvg-name="RTS 2 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 2
 https://lb.adriatelekom.com/RTSDEUX/index.m3u8
 #EXTINF:-1 tvg-id="RTS Info HD" tvg-name="RTS Info HD" tvg-logo="" group-title="Svizzera",RTS Info HD
@@ -704,7 +706,7 @@ https://patbuweb.com/iptv/e2liste/startend.avi
 https://648026e87a75e.streamlock.net/telemilano/telemilano/playlist.m3u8
 #EXTINF:-1 group-title="Lombardia" tvg-chno="10" channel-number="10",Telelombardia
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
-#EXTINF:-1 group-title="Sport" tvg-logo="",TOP Calcio 24
+#EXTINF:-1 group-title="Lombardia" tvg-logo="",TOP Calcio 24
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=2497&cntr=0
 #EXTINF:-1 tvg-id="Antenna 2 Bergamo" tvg-name="Antenna 2 Bergamo" tvg-logo="http://odmsto.com/uploads/tv_image/sm/antenna-2-bergamo.png" group-title="Lombardia",Antenna 2 Bergamo
 https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
@@ -756,14 +758,10 @@ https://streamcdnr16-3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S55287570/t
 https://stream6.xdevel.com/video0s976425-1243/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Telecity Lombardia" tvg-name="Telecity Lombardia" tvg-logo="http://odmsto.com/uploads/tv_image/sm/telecity-lombardia.JPG" group-title="Lombardia",Telecity Lombardia
 https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
-#EXTINF:-1 tvg-id="Telelombardia (TEST)" tvg-name="Telelombardia (TEST)" tvg-logo="http://odmsto.com/uploads/tv_image/sm/telelombardia-test-6a4os6mpi5c3.png" group-title="Lombardia",Telelombardia (TEST)
-https://www.youtube.com/embed/Nu2JGd0TJaM?si=Z4FPTG3N0X7VlaLz?controls=1&autoplay=1
 #EXTINF:-1 tvg-id="TeleColor Lombardia" tvg-name="TeleColor Lombardia" tvg-logo="http://odmsto.com/uploads/tv_image/sm/telecolor-lombardia.png" group-title="Lombardia",TeleColor Lombardia
 https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="TeleLeonessa" tvg-name="TeleLeonessa" tvg-logo="http://odmsto.com/uploads/tv_image/sm/teleleonessa.jpg" group-title="Lombardia",TeleLeonessa
 https://59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/chunklist_w573230189.m3u8
-#EXTINF:-1 tvg-id="Telelombardia (Offline)" tvg-name="Telelombardia (Offline)" tvg-logo="http://odmsto.com/uploads/tv_image/sm/telelombardia-test.jpg" group-title="Lombardia",Telelombardia (Offline)
-https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8
 #EXTINF:-1 tvg-id="TeleMantova" tvg-name="TeleMantova" tvg-logo="http://odmsto.com/uploads/tv_image/sm/telemantova.png" group-title="Lombardia",TeleMantova
 https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/chunklist_w219870635.m3u8
 #EXTINF:-1 tvg-id="TeleVallassina" tvg-name="TeleVallassina" tvg-logo="http://odmsto.com/uploads/tv_image/sm/televallassina.jpg" group-title="Lombardia",TeleVallassina
@@ -776,8 +774,7 @@ https://5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8
 https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/tracks-v1a1/rewind-3600.m3u8
 #EXTINF:-1 tvg-id="Unica Tv" tvg-name="Unica Tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/unica-tv.png" group-title="Lombardia",Unica Tv
 https://streamcdnf28-db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S84376118/gnJqPnxrsLcY/playlist.m3u8
-#EXTINF:-1 tvg-id="VideoStar" tvg-name="VideoStar" tvg-logo="http://odmsto.com/uploads/tv_image/sm/videostar.png" group-title="Lombardia",VideoStar
-https://604e46ac2bdee.streamlock.net:1936/vds/vds/playlist.m3u8
+
 #EXTINF:-1 tvg-id="=== Trentino Alto Adige ===" tvg-name="=== Trentino Alto Adige ===" tvg-logo="https://tivustream.website/logoz/icon.png" group-title="Trentino Alto Adige",=== Trentino Alto Adige ===
 https://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="Trentino Tv" tvg-name="Trentino Tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/trentino-tv.png" group-title="Trentino Alto Adige",Trentino Tv
@@ -4351,6 +4348,70 @@ http://juancs.streaminc.biz:8691/live/15236525885p99/mcqh9Njs/854.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Futbol
 https://live.teleradiocom.tj/8/3m.m3u8
+
+
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 2 HD
+http://8.243.126.131:8000/play/a04v/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN PREMIUM HD
+http://8.243.126.131:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",DIRECTV DEPORTE
+http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 6 HD
+http://8.243.126.131:8000/play/a05e/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 3 HD
+http://8.243.126.131:8000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 1
+http://8.243.126.131:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",LIGA 1 MAX HD
+http://8.243.126.131:8000/play/a063/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 7 HD
+http://8.243.126.131:8000/play/a065/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 5 HD 
+http://8.243.126.131:8000/play/a0jz/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN - MEXICO
+http://8.243.126.131:8000/play/a0gd/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 2
+http://8.243.126.131:8000/play/a0ge/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 2 HD
+http://8.243.126.131:8000/play/a0d3/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 2 HD
+http://8.243.126.131:8000/play/a0nv/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 2 HD
+http://8.243.126.131:8000/play/a0nl/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 3
+http://8.243.126.131:8000/play/a0jt/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 3 HD
+http://8.243.126.131:8000/play/a0nz/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 3 HD
+http://8.243.126.131:8000/play/a0d4/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 4
+http://8.243.126.131:8000/play/a0ju/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 4HD
+http://8.243.126.131:8000/play/a0kl/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 5
+http://8.243.126.131:8000/play/a0gq/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 5  HD
+http://8.243.126.131:8000/play/a0h0/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 5 HD
+http://8.243.126.131:8000/play/a0nh/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN 6 HD
+http://8.243.126.131:8000/play/a0ns/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN HD
+http://8.243.126.131:8000/play/a0d2/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN HD
+http://8.243.126.131:8000/play/a0nk/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN PREMIUM HD
+http://8.243.126.131:8000/play/a0lu/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",ESPN Premium HD
+http://8.243.126.131:8000/play/a0no/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",TNT SPORTS
+http://8.243.126.131:8000/play/a0nr/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",TNT Sports Premium HD
+http://8.243.126.131:8000/play/a0o7/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Win Sports+
+http://8.243.126.131:8000/play/a025/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Dazn Channel Full-HD" tvg-logo="http://logos25pro.newnamed.pro:25461/images/loghi/dazn.png" group-title="SPORT",Dazn Channel Full-HD
 http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/19699
