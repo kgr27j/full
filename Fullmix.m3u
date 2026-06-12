@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 11/06/2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 12/06/2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/rai.png" group-title="Canali RAI",=== Canali RAI===
@@ -318,9 +318,9 @@ https://orf3-247.mdn.ors.at/orf/orf3/qxa-247/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:-1 tvg-id="RSI LA 2" tvg-name="RSI LA 2" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera",RSI LA 2 vpn ch
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
-#EXTINF:-1 tvg-id="RSI La1" tvg-name="RSI La1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/320px-RSI_La_1_2012.svg.png" group-title="Svizzera",RSI La1 vpn ch
+#EXTINF:-1 tvg-id="RSI LA 1" tvg-name="RSI LA 1" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",RSI LA 1 vpn ch
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
-#EXTINF:-1 tvg-id="RSI La2" tvg-name="RSI La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/320px-RSI_La_2_2012.svg.png" group-title="Svizzera",RSI La2 vpn ch
+#EXTINF:-1 tvg-id="RSI LA 2" tvg-name="RSI LA 2" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera",RSI LA 2 vpn ch
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 
 
@@ -4340,8 +4340,9 @@ http://ky-tv.cc:80/Steve666/Steve666/3026054.ts
 http://ky-tv.cc:80/Steve666/Steve666/3026055.ts
 #EXTINF:-1 tvg-id="UK TNT Sports 8" tvg-name="UK TNT Sports 8" tvg-logo="" group-title="SPORT",UK TNT Sports 8
 http://ky-tv.cc:80/Steve666/Steve666/3026056.ts
-#EXTINF:-1 tvg-id="UK TNT Sports 8" tvg-name="Teledeporte ES" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png" group-title="SPORT",Teledeporte ES
-http://juancs.streaminc.biz:8691/live/15236525885p99/mcqh9Njs/854.m3u8
+#EXTINF:-1 tvg-id="UK TNT Sports 8" tvg-name="Teledeporte ES" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png" group-title="SPORT",#Sport1 (Austria) (🇦🇹)
+http://cevo1.ddns.me:8080/live/kbDA67tnfr/h6AhLZ4FB9/256566.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",CazeTV (1080i)
@@ -4415,49 +4416,73 @@ http://8.243.126.131:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Belarus-5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Azteca Deportes (Mexico) (🇲🇽)
+http://141.136.61.2:8000/play/a092/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 1 (Francia) (🇫🇷)
+http://41.205.70.146/BEINSPORT1/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 1 (Francia) (🇫🇷)
+http://update1.faceboock.ro/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/78542.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 2 (Francia) (🇫🇷)
+http://41.205.70.146/BEINSPORT2/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 2 (Francia) (🇫🇷)
+http://update1.faceboock.ro/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/78543.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 3 (Francia) (🇫🇷)
+http://41.205.70.146/BEINSPORT3/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 3 (Francia) (🇫🇷)
+http://145.239.5.177/559/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 3 (Francia) (🇫🇷)
+http://update1.faceboock.ro/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/78544.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 4 (Francia) (🇫🇷)
+http://41.205.70.146/BEINSPORT4/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 4 (Francia) (🇫🇷)
+http://145.239.5.177/515/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 5 (Francia) (🇫🇷)
+http://41.205.70.146/BEINSPORT5/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 5 (Francia) (🇫🇷)
+http://145.239.5.177/572/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports Xtra (UK) (🇬🇧)
+http://bein-xtra-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports Xtra (USA) (🇺🇸)
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports Xtra Ñ (España) (🇪🇸)
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports Xtra Ñ (Mexico) (🇲🇽)
+http://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=AMEnSC7IH-6CcedzDh-1Ew&e=2068161254
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports Ñ (España) (🇪🇸)
+https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Claro Sports (España) (🇪🇸🇲🇽🇨🇴🇦🇷🇵🇪🇨🇱)
+http://8.243.126.131:8000/play/a0f0/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Claro Sports 2 (España) (🇪🇸🇲🇽🇨🇴🇦🇷🇵🇪🇨🇱)
+http://200.35.176.154:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Deportes M+ (España) (🇪🇸🇲🇽🇨🇴🇦🇷🇵🇪🇨🇱)
+http://8.243.126.131:8000/play/a052/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",DAZN (UK) (🇬🇧)
+https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Digi Sport 1 (Rumania) (🇷🇴)
+http://update1.faceboock.ro/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82429.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Digi Sport 2 (Rumania) (🇷🇴)
+http://update1.faceboock.ro/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82430.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Digi Sport 3 (Rumania) (🇷🇴)
+http://update1.faceboock.ro/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82431.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Digi Sport 4 (Rumania) (🇷🇴)
+http://update1.faceboock.ro/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82432.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Eurosport 1 (España) 
+http://91.146.94.234:10001/play/a05n
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Eurosport 2 (España) (🇪🇸)
+http://200.115.120.1:8000/play/ca119/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Eurosport 1 (Francia) (🇫🇷)
+http://99.27.51.147:8080/EuroSport/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Eurosport 2 (Francia) (🇫🇷)
+http://145.239.5.177/530/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",FOX Deportes (España) 
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",FOX Sports (España) 
+http://200.115.120.1:8000/play/ca041/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",FOX Sports 2 (España) 
+http://200.115.120.1:8000/play/ca126/index.m3u8
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",FOX Sports Premium (España) 
+http://38.210.3.64:8090/play/a083/index.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Channel Full-HD" tvg-logo="http://logos25pro.newnamed.pro:25461/images/loghi/dazn.png" group-title="SPORT",Dazn Channel Full-HD
-http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/19699
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Channel HD" tvg-logo="http://logos25pro.newnamed.pro:25461/images/loghi/dazn.png" group-title="SPORT",Dazn Channel HD
-http://zonaplus_km6.starplusnewstart.com:25461/vittoriotv/dU1yPQ9Api/19697
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Channel Kali" tvg-logo="http://logos25pro.newnamed.pro:25461/images/loghi/dazn.png" group-title="SPORT",Dazn Channel Kali
-http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/45803
-#EXTINF:-1 tvg-id="" tvg-name="Zona Dazn Serie A 1 Full-HD" tvg-logo="http://logos25pro.newnamed.pro:25461/images/loghi/dzna.png" group-title="SPORT",Zona Dazn Serie A 1 Full-HD
-http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/62646
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Diretta Gol Serie B HD" tvg-logo="http://logos25pro.newnamed.pro:25461/images/loghi/dazn.png" group-title="SPORT",Dazn Diretta Gol Serie B HD
-http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/40183
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Calcio HD" tvg-logo="http://logos25pro.newnamed.pro:25461/images/loghi/sportseriea.png" group-title="SPORT",Sky Sport Calcio HD
-http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/11111
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 HD" tvg-logo="http://logos25pro.newnamed.pro:25461/images/loghi/HD_-_Logo_2015.svg.png" group-title="SPORT",Sky Sport 1 HD
-http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/11150
-#EXTINF:-1 tvg-id="" tvg-name="Sky Formula 1 Full-HD" tvg-logo="http://logos25pro.newnamed.pro:25461/images/loghi/sport-f1-hd-logo.jpg" group-title="SPORT",Sky Formula 1 Full-HD
-http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/11135
-#EXTINF:-1 tvg-id="" tvg-name="Sky Moto GP HD" tvg-logo="http://logos25pro.newnamed.pro:25461/images/loghi/moto-gp.png" group-title="SPORT",Sky Moto GP HD
-http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/11130
-#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1 Full-HD" tvg-logo="http://logos25pro.newnamed.pro:25461/images/loghi/eurosport.png" group-title="SPORT",EuroSport 1 Full-HD
-http://zonaplus_km6.starplusnewstart.com:25461/vittoriotv/dU1yPQ9Api/14780
-#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2 HD" tvg-logo="http://logos25pro.newnamed.pro:25461/images/loghi/eurosport2.png" group-title="SPORT",EuroSport 2 HD
-http://zonaplus_km6.starplusnewstart.com:25461/vittoriotv/dU1yPQ9Api/11126
-
-
-#EXTINF:-1 tvg-id="" tvg-name="[MYSPORT] MySports 1" tvg-logo="" group-title="SPORT",[MYSPORT] MySports 1
-http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/101763
-#EXTINF:-1 tvg-id="" tvg-name="[MYSPORT] MySports 2" tvg-logo="" group-title="SPORT",[MYSPORT] MySports 2
-http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/101764
-#EXTINF:-1 tvg-id="" tvg-name="[MYSPORT] MySports 3" tvg-logo="" group-title="SPORT",[MYSPORT] MySports 3
-http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/101765
-#EXTINF:-1 tvg-id="" tvg-name="[MYSPORT] MySports 4" tvg-logo="" group-title="SPORT",[MYSPORT] MySports 4
-http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/101766
-#EXTINF:-1 tvg-id="" tvg-name="[MYSPORT] MySports 5" tvg-logo="" group-title="SPORT",[MYSPORT] MySports 5
-http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/101767
-#EXTINF:-1 tvg-id="" tvg-name="[MYSPORT] MySports 6" tvg-logo="" group-title="SPORT",[MYSPORT] MySports 6
-http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/101768
-#EXTINF:-1 tvg-id="" tvg-name="[MYSPORT] MySports 7" tvg-logo="" group-title="SPORT",[MYSPORT] MySports 7
-http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/101769
-#EXTINF:-1 tvg-id="" tvg-name="[MYSPORT] MySports 8" tvg-logo="" group-title="SPORT",[MYSPORT] MySports 8
-http://abrams7826abramson784.newnamed.pro:25461/Linea251/aCPsdpR2EX/101770
 
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="SPORT",PT: SPORT TV 1 FHD
 http://fortv.cc:8080/cynthia/castey/167742
