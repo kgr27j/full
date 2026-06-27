@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg-guide.com/wltv.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz" url-tvg="http://epg-guide.com/wltv.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz" 
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 21/06/2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 27/06/2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/rai.png" group-title="Canali RAI",=== Canali RAI===
@@ -436,6 +436,8 @@ https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
 
 #EXTINF:-1 tvg-id="=== Altri Canali Nazionali ===" tvg-name="=== Altri Canali Nazionali ===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Altri Canali Nazionali",=== Altri Canali Nazionali ===
 https://patbuweb.com/iptv/e2liste/startend.avi
+#EXTINF:-1 tvg-logo="https://www.myplustv.it/wp-content/img_Grafics/Logo/LOGO_CINEMA.png" tvg-chno="15" group-title="Altri Canali Nazionali",Plus Cinema
+https://j78dpbnelq5r-hls-live.mariatvcdn.it/plus/50059bd08562eba8f09669ae8d37d28e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="7Italia" tvg-name="7Italia" tvg-logo="http://odmsto.com/uploads/tv_image/sm/7italia.png" group-title="Altri Canali Nazionali",7Italia
 https://tivusto.org/sh/7ita
 #EXTINF:-1 tvg-id="ANS Tv Italia" tvg-name="ANS Tv Italia" tvg-logo="http://odmsto.com/uploads/tv_image/sm/ans-tv-italia.png" group-title="Altri Canali Nazionali",ANS Tv Italia
