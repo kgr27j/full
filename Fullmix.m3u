@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg-guide.com/wltv.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz" url-tvg="http://epg-guide.com/wltv.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz" 
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 27/06/2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 12/07/2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/rai.png" group-title="Canali RAI",=== Canali RAI===
@@ -4512,6 +4512,105 @@ http://200.35.176.154:8000/play/a00i/index.m3u8
 http://8.243.126.131:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",DAZN (UK) (🇬🇧)
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
+
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",PL: ELEVEN SPORTS 1
+http://rjcf.ofztvxv.top:8080/kang/71267133/880
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",PL: ELEVEN SPORTS 2
+http://rjcf.ofztvxv.top:8080/kang/71267133/881
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",PL: ELEVEN SPORTS 4
+http://rjcf.ofztvxv.top:8080/kang/71267133/883
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",PL: EUROSPORT 1
+http://rjcf.ofztvxv.top:8080/kang/71267133/884
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",PL: EUROSPORT 2
+http://rjcf.ofztvxv.top:8080/kang/71267133/885
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",ES: (FHD) DAZN 1
+http://rjcf.ofztvxv.top:8080/kang/71267133/247
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",ES: (HD) DAZN 1
+http://rjcf.ofztvxv.top:8080/kang/71267133/128935
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",ES: DAZN 2
+http://rjcf.ofztvxv.top:8080/kang/71267133/248
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",ES: DAZN 3
+http://rjcf.ofztvxv.top:8080/kang/71267133/249
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",ES: DAZN 4
+http://rjcf.ofztvxv.top:8080/kang/71267133/250
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",ES: EUROSPORT 1
+http://rjcf.ofztvxv.top:8080/kang/71267133/281
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",ES: EUROSPORT 2
+http://rjcf.ofztvxv.top:8080/kang/71267133/282
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzY1XzE1NTMzNjVf/RGlnaV9TcG9ydF8xX0hELnBuZyZoYXNo/PTg4NjUwNzA4ZDA3YmJjMjhiYjEyYjU0MTUxZmI0M2Fj.png",Digi Sport 1 FHD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82429
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://static.epgguide.net/icon/digisport1.ro.png",Digi Sport 1 HDR (Net Bun)
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82438
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",Digi Sport 2 HD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82434
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/FqYpb4QM/dsp2.png",Digi Sport 2 FHD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82430
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795782_4157.png&max=200",Digi Sport 2 HDR (Net Bun)
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82439
+#EXTINF:-1 group-title="" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795914_6683.png&max=200",Digi Sport 3 HD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82435
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/twj77rtx/DIGI-Sport-3-svg.png",Digi Sport 3 FHD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82431
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795886_6514.png&max=200",Digi Sport 3 HDR (Net Bun)
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82440
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1775136311_2308.png&max=200",Digi Sport 4 HD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82436
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1775136311_2308.png&max=200",Digi Sport 4 FHD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82432
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1775136311_2308.png&max=200",Digi Sport 4 HDR (Net Bun)
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82441
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3NjlfMTI5ODc2OV9F/VVJPU1BPUlQtNEsucG5nJmhhc2g9YjM3/MTQzMzdmNTIyMDcwNTc5MGMyMGMwZDU1NjZlODg=.png",Eurosport 4K
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/17995
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774883892_5805.png&max=200",EuroSport1 Romania FHD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70382
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774883892_5805.png&max=200",EuroSport 1 HD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70387
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774883892_5805.png&max=200",EuroSport 1 FHD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70385
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774883983_7312.png&max=200",EuroSport 2 HD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70384
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png",EuroSport 2 FHD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70388
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774864847_9358.png&max=200",Prima 4K
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/19319
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ4XzE1NTM0NDhf/UHJpbWFfU3BvcnRfbmV3LnBuZyZoYXNo/PWU4MTQwMjY1NjkyNWRkODZjNjZhNGMzOTA3ODgzNDQ4.png",Prima Sport 1 HD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9106
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU4XzE1NTM2NThf/UHJpbWFfU3BvcnRfMV9IRC5wbmcmaGFz/aD0zMDNhMDcwZTcwZDRlOWY3MDA1OTY4ZDM3YjA4YjZmYQ==.png",Prima Sport 1 FHD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31399
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774864638_4885.png&max=200",Prima Sport 1 HDR (Net Bun)
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70495
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4NzA2XzE1OTg3MDZf/UHJpbWEtU3BvcnQtMi1zaS1QcmltYS1T/cG9ydC0yLUhELnBuZyZoYXNoPWU5Zjdm/MDFjNWE1ZmI4ODE0MDJhMmYxM2EwYzhkZjA4.png",Prima Sport 2 HD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9105
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4NzE5XzE1OTg3MTlf/UHJpbWEtU3BvcnQtMi1zaS1QcmltYS1T/cG9ydC0yLUhEXzEucG5nJmhhc2g9NDBi/MDJiZTdiODJlN2U2NzI4ZWM5ZTUzMTc3MWMwZjA=.png",Prima Sport 2 FHD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9003
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774864638_4885.png&max=200",Prima Sport 2 HDR (Net Bun)
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70496
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4NzA3XzE1OTg3MDdf/UHJpbWEtU3BvcnQtMy0xLnBuZyZoYXNo/PTM3ZTZhODY3YjA5YzliYjdmNzM1YTVlZmYwM2E5YTc3.png",Prima Sport 3 HD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/30431
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU5XzE1NTM2NTlf/UHJpbWFfU3BvcnRfM19IRC5wbmcmaGFz/aD1kMTczNDcwNjljMjQ1ZWYyN2Q0MjM2MWVmZjlmNmNhYQ==.png",Prima Sport 3 FHD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9005
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774864638_4885.png&max=200",Prima Sport 3 HDR  (Net Bun)
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70497
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774864638_4885.png&max=200",Prima Sport 4 FHD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9004
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774864638_4885.png&max=200",Prima Sport 4 HDR (Net Bun)
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70498
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774864638_4885.png&max=200",Prima Sport 5 HD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37928
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774864638_4885.png&max=200",Prima Sport 5 FHD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37842
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774864638_4885.png&max=200",Prima Sport 5 HDR  (Net Bun)
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70499
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDc1XzE1NTM0NzVf/U3BvcnRfRXh0cmFfSEQucG5nJmhhc2g9/NWNmYjJjMTM5ZTBjMzk4YjQ5NTcyODczNDk2OTlhMjg=.png",Sport Extra FHD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/29052
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774865385_9677.png&max=200",Pro Arena
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9104
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774865385_9677.png&max=200",Pro Arena FHD
+http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9006
+
+
+
 #EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Digi Sport 1 (Rumania) (🇷🇴)
 http://update1.faceboock.ro/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82429.m3u8
 #EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Digi Sport 2 (Rumania) (🇷🇴)
