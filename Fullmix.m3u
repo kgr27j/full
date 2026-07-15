@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg-guide.com/wltv.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz" url-tvg="http://epg-guide.com/wltv.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz" 
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 13/07/2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 14/07/2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/rai.png" group-title="Canali RAI",=== Canali RAI===
@@ -273,19 +273,15 @@ https://jmp2.uk/stvp-IT800002CE
 
 #EXTINF:-1 tvg-id="===Svizzera===" tvg-name="===Svizzera===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Svizzera",===Svizzera===
 http://patbuweb.com/iptv/e2liste/startend.avi
-#EXTINF:-1 tvg-id="RSI La1" tvg-name="RSI La1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/320px-RSI_La_1_2012.svg.png" group-title="Svizzera",RSI La1
+#EXTINF:-1 tvg-id="RSI LA 1" tvg-name="RSI LA 1" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",,RSI La1
 http://91.146.94.234:10001/play/a0jn
-#EXTINF:-1 tvg-id="RSI La2" tvg-name="RSI La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/320px-RSI_La_2_2012.svg.png" group-title="Svizzera",RSI La2
+#EXTINF:-1 tvg-id="RSI LA 2" tvg-name="RSI LA 2" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera",,RSI La2
 http://91.146.94.234:10001/play/a0jo
 
-#EXTINF:-1 tvg-id="RSI LA 1" tvg-name="RSI LA 1" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",RSI LA 1 vpn ch
-https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-#EXTINF:-1 tvg-id="RSI LA 2" tvg-name="RSI LA 2" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera",RSI LA 2 vpn ch
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
-#EXTINF:-1 tvg-id="RSI LA 1" tvg-name="RSI LA 1" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",RSI LA 1 vpn ch
-https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
-#EXTINF:-1 tvg-id="RSI LA 2" tvg-name="RSI LA 2" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera",RSI LA 2 vpn ch
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
+#EXTINF:-1 tvg-id="RTS 1 (stream mdp)" tvg-name="RTS 1 (stream mdp)" tvg-logo="" group-title="Svizzera",SRF 1 HD(au)
+http://91.146.94.234:10001/play/a0fh
+#EXTINF:-1 tvg-id="RTS 1 (stream mdp)" tvg-name="RTS 1 (stream mdp)" tvg-logo="" group-title="Svizzera",SRF info HD
+http://91.146.94.234:10001/play/a08m
 
 #EXTINF:-1 tvg-id="RTS 1 (stream mdp)" tvg-name="RTS 1 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 1
 https://uvotv.zappr.stream/443.m3u8
@@ -590,6 +586,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRAVEL XP 4K" tvg-name="TRAVEL XP 4K" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png" group-title="Documentari",TRAVEL XP 4K
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="TRAVEL XP 4K" tvg-name="TRAVEL XP 4K" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rmf_classic.png" group-title="Documentari",TRAVELXP 4K
+http://91.146.94.234:10001/play/a066
 #EXTINF:-1 tvg-id="Travel XP (EU)" tvg-name="Travel XP (EU)" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Documentari",Travel XP (EU)
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Travel XP (FR)" tvg-name="Travel XP (FR)" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Documentari",Travel XP (FR)
@@ -4513,6 +4511,10 @@ http://8.243.126.131:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",DAZN (UK) (🇬🇧)
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Eurosport 1 HD Eng
+http://91.146.94.234:10001/play/a05h
+#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Eurosport 2 HD Eng
+http://91.146.94.234:10001/play/a05g
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",PL: ELEVEN SPORTS 1
 http://rjcf.ofztvxv.top:8080/kang/71267133/880
