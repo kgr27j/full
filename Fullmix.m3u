@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg-guide.com/wltv.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz" url-tvg="http://epg-guide.com/wltv.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz" 
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 14/07/2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 26/07/2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/rai.png" group-title="Canali RAI",=== Canali RAI===
@@ -273,22 +273,15 @@ https://jmp2.uk/stvp-IT800002CE
 
 #EXTINF:-1 tvg-id="===Svizzera===" tvg-name="===Svizzera===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Svizzera",===Svizzera===
 http://patbuweb.com/iptv/e2liste/startend.avi
-#EXTINF:-1 tvg-id="RSI LA 1" tvg-name="RSI LA 1" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",,RSI La1
-http://91.146.94.234:10001/play/a0jn
-#EXTINF:-1 tvg-id="RSI LA 2" tvg-name="RSI LA 2" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera",,RSI La2
-http://91.146.94.234:10001/play/a0jo
+#EXTINF:-1 tvg-id="RSI LA 1" tvg-name="RSI LA 1" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",RSI La1
+http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/15206
+#EXTINF:-1 tvg-id="RSI LA 2" tvg-name="RSI LA 2" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera",RSI La2
+http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/15207
+#EXTINF:-1 tvg-id="RSI LA 1" tvg-name="RSI LA 1" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",RSI LA 1 FHD
+http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/56719
+#EXTINF:-1 tvg-id="RSI LA 2" tvg-name="RSI LA 2" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera",RSI LA 2 FHD
+http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/56720
 
-#EXTINF:-1 tvg-id="RTS 1 (stream mdp)" tvg-name="RTS 1 (stream mdp)" tvg-logo="" group-title="Svizzera",SRF 1 HD(au)
-http://91.146.94.234:10001/play/a0fh
-#EXTINF:-1 tvg-id="RTS 1 (stream mdp)" tvg-name="RTS 1 (stream mdp)" tvg-logo="" group-title="Svizzera",SRF info HD
-http://91.146.94.234:10001/play/a08m
-
-#EXTINF:-1 tvg-id="RTS 1 (stream mdp)" tvg-name="RTS 1 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 1
-https://uvotv.zappr.stream/443.m3u8
-#EXTINF:-1 tvg-id="RTS 1 (stream mdp)" tvg-name="RTS 1 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 1
-https://lb.adriatelekom.com/RTSUN/index.m3u8
-#EXTINF:-1 tvg-id="RTS 2 (stream mdp)" tvg-name="RTS 2 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 2
-https://lb.adriatelekom.com/RTSDEUX/index.m3u8
 #EXTINF:-1 tvg-id="RTS Info HD" tvg-name="RTS Info HD" tvg-logo="" group-title="Svizzera",RTS Info HD
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 
@@ -4189,7 +4182,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Red Bull TV US
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Inter TV" tvg-name="Inter TV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/bb49ed71-bf84-480e-9336-4cfaba55d253-width200-quality90.png" group-title="SPORT",Inter TV
-https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 #EXTINF:-1 tvg-id="INTER 24/7" tvg-name="INTER 24/7" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/bb49ed71-bf84-480e-9336-4cfaba55d253-width200-quality90.png" group-title="SPORT",INTER 24/7
 https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo="",TOP Calcio 24
@@ -4394,6 +4387,35 @@ http://ky-tv.cc:80/Steve666/Steve666/3026055.ts
 http://ky-tv.cc:80/Steve666/Steve666/3026056.ts
 #EXTINF:-1 tvg-id="UK TNT Sports 8" tvg-name="Teledeporte ES" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png" group-title="SPORT",#Sport1 (Austria) (🇦🇹)
 http://cevo1.ddns.me:8080/live/kbDA67tnfr/h6AhLZ4FB9/256566.m3u8
+
+#EXTINF:-1 tvg-id="Zona DAZN" tvg-name="ZONA DAZN HD" tvg-logo="http://worldfinder.sharktv.org:8000/images/dazn-logo-4E00D59DF0-seeklogo.com.png" group-title="SPORT",ZONA DAZN HD
+http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/55418
+#EXTINF:-1 tvg-id="" tvg-name="DAZN DIRETTA GOL SERIE A" tvg-logo="http://worldfinder.sharktv.org:8000/images/dazn-logo-4E00D59DF0-seeklogo.com.png" group-title="SPORT",DAZN DIRETTA GOL SERIE A
+http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/87555
+#EXTINF:-1 tvg-id="" tvg-name="DAZN DIRETTA GOL SERIE B" tvg-logo="http://worldfinder.sharktv.org:8000/images/dazn-logo-4E00D59DF0-seeklogo.com.png" group-title="SPORT",DAZN DIRETTA GOL SERIE B
+http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/87556
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 1 HD" tvg-logo="" group-title="SPORT",DAZN SERIE A 1 HD
+http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/84638
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 2 HD" tvg-logo="" group-title="SPORT",DAZN SERIE A 2 HD
+http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/84639
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 3 HD" tvg-logo="" group-title="SPORT",DAZN SERIE A 3 HD
+http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/168688
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 4 HD" tvg-logo="" group-title="SPORT",DAZN SERIE A 4 HD
+http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/168689
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5omqft3P9D1W3HYXcx4ZZ76CopVnCyNKHQ&usqp=CAU" group-title="SPORT",EUROSPORT 1 FHD
+http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/55430
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 FHD" tvg-logo="http://tachiflu.ddns.net:8000/images/6beceef81b90d9d6eb62e310fea0e1d3.jpg" group-title="SPORT",EUROSPORT 2 FHD
+http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/55431
+#EXTINF:-1 tvg-id="Sky Sport24" tvg-name="SKY SPORT 24 FHD" tvg-logo="http://tachiflu.ddns.net:8000/images/8bafeeb592502744d1e2f40388f9cef4.png" group-title="SPORT",SKY SPORT 24 FHD
+http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/16762
+#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="SKY SPORT UNO FHD" tvg-logo="http://tachiflu.ddns.net:8000/images/eb83e133d007651dd6f3f48b9e6b136c.png" group-title="SPORT",SKY SPORT UNO FHD
+http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/16765
+#EXTINF:-1 tvg-id="Sky Sport Calcio" tvg-name="SKY SPORT CALCIO FHD" tvg-logo="http://tachiflu.ddns.net:8000/images/8c0028be4def214b82bfae05222dcac8.png" group-title="SPORT",SKY SPORT CALCIO FHD
+http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/16805
+#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="SKY SPORT FORMULA 1 FHD" tvg-logo="http://tachiflu.ddns.net:8000/images/ca2dcaaec85096d5387933f9e1526985.png" group-title="SPORT",SKY SPORT FORMULA 1 FHD
+http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/16784
+#EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="SKY SPORT MOTO GP FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sky_Sport_MotoGP_HD_-_Logo_2015.svg/1200px-Sky_Sport_MotoGP_HD_-_Logo_2015.svg.png" group-title="SPORT",SKY SPORT MOTO GP FHD
+http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/16774
 
 
 
