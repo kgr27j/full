@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg-guide.com/wltv.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz" url-tvg="http://epg-guide.com/wltv.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz" 
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 26/07/2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 29/07/2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/rai.png" group-title="Canali RAI",=== Canali RAI===
@@ -4369,53 +4369,66 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=13127
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1312730&extension=ts&play_token=6h3HTEHdv8
 #EXTINF:-1 tvg-id="┃UK┃ SERIE A - INTER MILAN FHD" tvg-name="┃UK┃ SERIE A - INTER MILAN FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SERIE A ITALY/INTER MILAN.png" group-title="SPORT",┃UK┃ SERIE A - INTER MILAN FHD
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1314053&extension=ts&play_token=gxB4mAs04v
-#EXTINF:-1 tvg-id="UK TNT Sports 1" tvg-name="UK TNT Sports 1" tvg-logo="https://i.ibb.co/sJc3Cyw/TNT-Sports-2023-svg.png" group-title="SPORT",UK TNT Sports 1
-http://ky-tv.cc:80/Steve666/Steve666/1846762.ts
-#EXTINF:-1 tvg-id="UK TNT Sports 2" tvg-name="UK TNT Sports 2" tvg-logo="https://i.ibb.co/sJc3Cyw/TNT-Sports-2023-svg.png" group-title="SPORT",UK TNT Sports 2
-http://ky-tv.cc:80/Steve666/Steve666/1846763.ts
-#EXTINF:-1 tvg-id="UK TNT Sports 3" tvg-name="UK TNT Sports 3" tvg-logo="https://i.ibb.co/sJc3Cyw/TNT-Sports-2023-svg.png" group-title="SPORT",UK TNT Sports 3
-http://ky-tv.cc:80/Steve666/Steve666/1846764.ts
-#EXTINF:-1 tvg-id="UK TNT Sports 4" tvg-name="UK TNT Sports 4" tvg-logo="https://i.ibb.co/sJc3Cyw/TNT-Sports-2023-svg.png" group-title="SPORT",UK TNT Sports 4
-http://ky-tv.cc:80/Steve666/Steve666/2274006.ts
-#EXTINF:-1 tvg-id="UK TNT Sports 5" tvg-name="UK TNT Sports 5" tvg-logo="https://i.ibb.co/sJc3Cyw/TNT-Sports-2023-svg.png" group-title="SPORT",UK TNT Sports 5
-http://ky-tv.cc:80/Steve666/Steve666/3074933.ts
-#EXTINF:-1 tvg-id="UK TNT Sports 6" tvg-name="UK TNT Sports 6" tvg-logo="" group-title="SPORT",UK TNT Sports 6
-http://ky-tv.cc:80/Steve666/Steve666/3026054.ts
-#EXTINF:-1 tvg-id="UK TNT Sports 7" tvg-name="UK TNT Sports 7" tvg-logo="" group-title="SPORT",UK TNT Sports 7
-http://ky-tv.cc:80/Steve666/Steve666/3026055.ts
-#EXTINF:-1 tvg-id="UK TNT Sports 8" tvg-name="UK TNT Sports 8" tvg-logo="" group-title="SPORT",UK TNT Sports 8
-http://ky-tv.cc:80/Steve666/Steve666/3026056.ts
-#EXTINF:-1 tvg-id="UK TNT Sports 8" tvg-name="Teledeporte ES" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png" group-title="SPORT",#Sport1 (Austria) (🇦🇹)
-http://cevo1.ddns.me:8080/live/kbDA67tnfr/h6AhLZ4FB9/256566.m3u8
 
-#EXTINF:-1 tvg-id="Zona DAZN" tvg-name="ZONA DAZN HD" tvg-logo="http://worldfinder.sharktv.org:8000/images/dazn-logo-4E00D59DF0-seeklogo.com.png" group-title="SPORT",ZONA DAZN HD
-http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/55418
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DIRETTA GOL SERIE A" tvg-logo="http://worldfinder.sharktv.org:8000/images/dazn-logo-4E00D59DF0-seeklogo.com.png" group-title="SPORT",DAZN DIRETTA GOL SERIE A
-http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/87555
-#EXTINF:-1 tvg-id="" tvg-name="DAZN DIRETTA GOL SERIE B" tvg-logo="http://worldfinder.sharktv.org:8000/images/dazn-logo-4E00D59DF0-seeklogo.com.png" group-title="SPORT",DAZN DIRETTA GOL SERIE B
-http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/87556
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 1 HD" tvg-logo="" group-title="SPORT",DAZN SERIE A 1 HD
-http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/84638
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 2 HD" tvg-logo="" group-title="SPORT",DAZN SERIE A 2 HD
-http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/84639
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 3 HD" tvg-logo="" group-title="SPORT",DAZN SERIE A 3 HD
-http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/168688
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 4 HD" tvg-logo="" group-title="SPORT",DAZN SERIE A 4 HD
-http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/168689
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5omqft3P9D1W3HYXcx4ZZ76CopVnCyNKHQ&usqp=CAU" group-title="SPORT",EUROSPORT 1 FHD
-http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/55430
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 FHD" tvg-logo="http://tachiflu.ddns.net:8000/images/6beceef81b90d9d6eb62e310fea0e1d3.jpg" group-title="SPORT",EUROSPORT 2 FHD
-http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/55431
-#EXTINF:-1 tvg-id="Sky Sport24" tvg-name="SKY SPORT 24 FHD" tvg-logo="http://tachiflu.ddns.net:8000/images/8bafeeb592502744d1e2f40388f9cef4.png" group-title="SPORT",SKY SPORT 24 FHD
-http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/16762
-#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="SKY SPORT UNO FHD" tvg-logo="http://tachiflu.ddns.net:8000/images/eb83e133d007651dd6f3f48b9e6b136c.png" group-title="SPORT",SKY SPORT UNO FHD
-http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/16765
-#EXTINF:-1 tvg-id="Sky Sport Calcio" tvg-name="SKY SPORT CALCIO FHD" tvg-logo="http://tachiflu.ddns.net:8000/images/8c0028be4def214b82bfae05222dcac8.png" group-title="SPORT",SKY SPORT CALCIO FHD
-http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/16805
-#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="SKY SPORT FORMULA 1 FHD" tvg-logo="http://tachiflu.ddns.net:8000/images/ca2dcaaec85096d5387933f9e1526985.png" group-title="SPORT",SKY SPORT FORMULA 1 FHD
-http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/16784
-#EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="SKY SPORT MOTO GP FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sky_Sport_MotoGP_HD_-_Logo_2015.svg/1200px-Sky_Sport_MotoGP_HD_-_Logo_2015.svg.png" group-title="SPORT",SKY SPORT MOTO GP FHD
-http://flogauartv.ddns.net:8000/GIUSCOM2023/t6EKJGUjkbfm/16774
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picons1.ddns.net:8080/picon/dazn1meo.png.png",DAZN 1 FHD MEDIUM
+http://luispt-cs.space:8080/live/kL8N7Wu54yTf/53VcMSaSbxA5/23.ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picons1.ddns.net:8080/picon/dazn2meo.png.png",DAZN 2 FHD MEDIUM
+http://luispt-cs.space:8080/live/kL8N7Wu54yTf/53VcMSaSbxA5/26.ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picons1.ddns.net:8080/picon/dazn2nos.png.png",DAZN 2 FHD HIGH
+http://luispt-cs.space:8080/live/kL8N7Wu54yTf/53VcMSaSbxA5/27.ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picons1.ddns.net:8080/picon/dazn2nos.png.png",DAZN 2 FHD (Full HD)
+http://luispt-cs.space:8080/live/kL8N7Wu54yTf/53VcMSaSbxA5/28.ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picons1.ddns.net:8080/picon/dazn3meo.png.png",DAZN 3 FHD MEDIUM
+http://luispt-cs.space:8080/live/kL8N7Wu54yTf/53VcMSaSbxA5/29.ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picons1.ddns.net:8080/picon/dazn3nos.png.png",DAZN 3 FHD HIGH
+http://luispt-cs.space:8080/live/kL8N7Wu54yTf/53VcMSaSbxA5/30.ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picons1.ddns.net:8080/picon/dazn3nos.png.png",DAZN 3 FHD (Full HD)
+http://luispt-cs.space:8080/live/kL8N7Wu54yTf/53VcMSaSbxA5/31.ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picons1.ddns.net:8080/picon/dazn4meo.png.png",DAZN 4 FHD MEDIUM
+http://luispt-cs.space:8080/live/kL8N7Wu54yTf/53VcMSaSbxA5/32.ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picons1.ddns.net:8080/picon/dazn4nos.png.png",DAZN 4 FHD HIGH
+http://luispt-cs.space:8080/live/kL8N7Wu54yTf/53VcMSaSbxA5/33.ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picons1.ddns.net:8080/picon/dazn4nos.png.png",DAZN 4 FHD (Full HD)
+http://luispt-cs.space:8080/live/kL8N7Wu54yTf/53VcMSaSbxA5/34.ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picons1.ddns.net:8080/picon/dazn5nos.png.png",DAZN 5 FHD MEDIUM
+http://luispt-cs.space:8080/live/kL8N7Wu54yTf/53VcMSaSbxA5/35.ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picons1.ddns.net:8080/picon/dazn5nos.png.png",DAZN 5 FHD HIGH
+http://luispt-cs.space:8080/live/kL8N7Wu54yTf/53VcMSaSbxA5/36.ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picons1.ddns.net:8080/picon/dazn5meo.png.png",DAZN 5 FHD (Full HD)
+http://luispt-cs.space:8080/live/kL8N7Wu54yTf/53VcMSaSbxA5/37.ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picons1.ddns.net:8080/picon/eurosport2meo.png.png",EUROSPORT 2 ʜᴅ
+http://luispt-cs.space:8080/live/kL8N7Wu54yTf/53VcMSaSbxA5/81.ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://picons1.ddns.net:8080/picon/eurosport2meo.png.png",EUROSPORT 2 ꜰʜᴅ
+http://luispt-cs.space:8080/live/kL8N7Wu54yTf/53VcMSaSbxA5/82.ts
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://iptvbeka.net/albanian/SuperSport 1.png",AL: Super Sport 1 HD
+http://cmskos.bekaks.net:777/gentianbraha/54FMPN4l9E/63
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://iptvbeka.net/albanian/SuperSport 5.png",AL: Super Sport 5 HD
+http://cmskos.bekaks.net:777/gentianbraha/54FMPN4l9E/360
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://iptvbeka.net/albanian/SuperSport 6.png",AL: Super Sport 6 HD
+http://cmskos.bekaks.net:777/gentianbraha/54FMPN4l9E/361
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://iptvbeka.net/albanian/Super Sport Kosova 1.png",AL: Super Sport Kosova 1
+http://cmskos.bekaks.net:777/gentianbraha/54FMPN4l9E/5602
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://iptvbeka.net/albanian/Super Sport Kosova 2.png",AL: Super Sport Kosova 2
+http://cmskos.bekaks.net:777/gentianbraha/54FMPN4l9E/5603
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://iptvbeka.net/albanian/Tring Sport News HD.png",AL: Tring Sport News HD
+http://cmskos.bekaks.net:777/gentianbraha/54FMPN4l9E/28
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%202.png",AL: ART Sport 2 HD
+http://cmskos.bekaks.net:777/gentianbraha/54FMPN4l9E/3554
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%203.png",AL: ART Sport 3 HD
+http://cmskos.bekaks.net:777/gentianbraha/54FMPN4l9E/3553
+#EXTINF:-1 group-title="SPORT" tvg-logo="http://iptvbeka.net/albanian/ART Sport 6 HD.png",AL: ART Sport 6 HD
+http://cmskos.bekaks.net:777/gentianbraha/54FMPN4l9E/5167
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png",ES: (FHD) DAZN 1
+http://neosfpoo.top:8080/8691758120550442/b8921a0e70b8/5589
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png",ES: (HD) DAZN 1
+http://neosfpoo.top:8080/8691758120550442/b8921a0e70b8/57475
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png",ES: DAZN 2
+http://neosfpoo.top:8080/8691758120550442/b8921a0e70b8/5590
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png",ES: DAZN 3
+http://neosfpoo.top:8080/8691758120550442/b8921a0e70b8/5591
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png",ES: DAZN 4
+http://neosfpoo.top:8080/8691758120550442/b8921a0e70b8/5592
 
 
 
