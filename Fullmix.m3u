@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg-guide.com/wltv.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz" url-tvg="http://epg-guide.com/wltv.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz" 
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 02/08/2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 05/08/2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/rai.png" group-title="Canali RAI",=== Canali RAI===
@@ -282,6 +282,12 @@ http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/53085.ts
 #EXTINF:-1 tvg-id="RSI LA 2" tvg-name="RSI LA 2" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera",RSI La2 hd
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/53086.ts
 
+
+
+#EXTINF:-1 tvg-id="RSI LA 1" tvg-name="RSI LA 1" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",RSI LA 1 FHD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/56719
+#EXTINF:-1 tvg-id="RSI LA 2" tvg-name="RSI LA 2" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera"RSI LA 2 FHD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/56720
 #EXTINF:-1 tvg-id="RSI LA 1" tvg-name="RSI LA 1" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",||CH|| RSI LA 1 HD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/52326.ts
 #EXTINF:-1 tvg-id="RSI LA 2" tvg-name="RSI LA 2" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera",||CH|| RSI LA 2 HD
@@ -4480,6 +4486,51 @@ http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/98923.ts
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/98924.ts
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",||IT|| DAZN 10 HD
 http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/98918.ts
+
+#EXTINF:-1 tvg-id="Zona DAZN" tvg-name="ZONA DAZN HD" tvg-logo="http://worldfinder.sharktv.org:8000/images/dazn-logo-4E00D59DF0-seeklogo.com.png" group-title="SPORT",ZONA DAZN HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/55418
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 1 HD" tvg-logo="" group-title="SPORT",DAZN SERIE A 1 HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/84638
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 2 HD" tvg-logo="" group-title="SPORT",DAZN SERIE A 2 HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/84639
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 3 HD" tvg-logo="" group-title="SPORT",DAZN SERIE A 3 HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/168688
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 4 HD" tvg-logo="" group-title="SPORT",DAZN SERIE A 4 HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/168689
+#EXTINF:-1 tvg-id="" tvg-name="DAZN DIRETTA GOL SERIE A" tvg-logo="http://worldfinder.sharktv.org:8000/images/dazn-logo-4E00D59DF0-seeklogo.com.png" group-title="SPORT",DAZN DIRETTA GOL SERIE A
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/87555
+#EXTINF:-1 tvg-id="Sky Sport24" tvg-name="SKY SPORT 24 HD" tvg-logo="http://tachiflu.ddns.net:8000/images/8bafeeb592502744d1e2f40388f9cef4.png" group-title="SPORT",SKY SPORT 24 HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/15249
+#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="SKY SPORT UNO HD" tvg-logo="http://tachiflu.ddns.net:8000/images/eb83e133d007651dd6f3f48b9e6b136c.png" group-title="SPORT",SKY SPORT UNO HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/15250
+#EXTINF:-1 tvg-id="Sky Sport Calcio" tvg-name="SKY SPORT CALCIO HD" tvg-logo="http://tachiflu.ddns.net:8000/images/8c0028be4def214b82bfae05222dcac8.png" group-title="SPORT",SKY SPORT CALCIO HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/15266
+#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="SKY SPORT TENNIS HD" tvg-logo="http://tachiflu.ddns.net:8000/images/78b389ee12f4fd91c00f03f6fb6a73f9.png" group-title="SPORT",SKY SPORT TENNIS HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/15253
+#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="SKY SPORT ARENA HD" tvg-logo="http://worldfinder.sharktv.org:8000/images/923b6276413881258698b804fd0f4984.png" group-title="SPORT",SKY SPORT ARENA HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/15252
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT MAX HD" tvg-logo="" group-title="SPORT",SKY SPORT MAX HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/147453
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT GOLF HD" tvg-logo="" group-title="SPORT",SKY SPORT GOLF HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/83375
+#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="SKY SPORT FORMULA 1 HD" tvg-logo="http://tachiflu.ddns.net:8000/images/ca2dcaaec85096d5387933f9e1526985.png" group-title="SPORT",SKY SPORT FORMULA 1 HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/15256
+#EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="SKY SPORT MOTO GP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sky_Sport_MotoGP_HD_-_Logo_2015.svg/1200px-Sky_Sport_MotoGP_HD_-_Logo_2015.svg.png" group-title="SPORT",SKY SPORT MOTO GP HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/15255
+#EXTINF:-1 tvg-id="Sky Sport NBA HD" tvg-name="SKY SPORT BASKET HD" tvg-logo="http://tachiflu.ddns.net:8000/images/b49244ddadf3b048431545324acc4644.png" group-title="SPORT",SKY SPORT BASKET HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/185013
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT ADVENTURE HD" tvg-logo="" group-title="SPORT",SKY SPORT ADVENTURE HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/184710
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT LEGEND HD" tvg-logo="" group-title="SPORT",SKY SPORT LEGEND HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/184713
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT MIX HD" tvg-logo="" group-title="SPORT",SKY SPORT MIX HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/184716
+#EXTINF:-1 tvg-id="SuperTennis" tvg-name="SUPER TENNIS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5omqft3P9D1W3HYXcx4ZZ76CopVnCyNKHQ&usqp=CAU" group-title="SPORT",SUPER TENNIS HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/15257
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT 1 HD" tvg-logo="http://tachiflu.ddns.net:8000/images/09c6005b68f6d948d866c9fda4a4ae70.jpg" group-title="SPORT",EUROSPORT 1 HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/15258
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 HD" tvg-logo="http://tachiflu.ddns.net:8000/images/6beceef81b90d9d6eb62e310fea0e1d3.jpg" group-title="SPORT",EUROSPORT 2 HD
+http://flogauartv.ddns.net:8000/AMICCAPOC2020/5qqlop2Qf5g/15259
 
 
 
