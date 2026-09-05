@@ -4141,9 +4141,19 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="=== SPORT VPN ===" tvg-name="=== SPORT VPN ===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SPORT VPN",=== SPORT VPN ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="" tvg-name="CA| TLN HD" tvg-logo="https://lo1.in/ca/tln0.png" group-title="SPORT VPN",CA| TLN HD
+http://rpbjgudz.megavip.cc:80/3882956374/3057047756/100384
+#EXTINF:-1 tvg-id="" tvg-name="CA| TLN+ HD" tvg-logo="https://lo1.in/ca/tln0.png" group-title="SPORT VPN",CA| TLN+ HD
+http://rpbjgudz.megavip.cc:80/3882956374/3057047756/100004
+#EXTINF:-1 tvg-id="" tvg-name="CA| TLN HD" tvg-logo="https://lo1.in/ca/tln0.png" group-title="SPORT VPN",CA| TLN HD
 http://rpbjgudz.megavip.cc:80/6963549400/9731329614/100384
 #EXTINF:-1 tvg-id="" tvg-name="CA| TLN+ HD" tvg-logo="https://lo1.in/ca/tln0.png" group-title="SPORT VPN",CA| TLN+ HD
 http://rpbjgudz.megavip.cc:80/6963549400/9731329614/100004
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US| CBS SPORTS NETWORK HD" tvg-logo="https://lo1.in/us/cbsss.png" group-title="SPORT VPN",US| CBS SPORTS NETWORK HD
+http://rpbjgudz.megavip.cc:80/3882956374/3057047756/32109
+#EXTINF:-1 tvg-id="" tvg-name="US| CBS SPORTS GOLAZO NETWORK HD" tvg-logo="https://lo1.in/us/cbsss.png" group-title="SPORT VPN",US| CBS SPORTS GOLAZO NETWORK HD
+http://rpbjgudz.megavip.cc:80/3882956374/3057047756/3959
+#EXTINF:-1 tvg-id="" tvg-name="US| CBS SPORTS HQ HD" tvg-logo="https://lo1.in/us/cbss0.png" group-title="SPORT VPN",US| CBS SPORTS HQ HD
+http://rpbjgudz.megavip.cc:80/3882956374/3057047756/33100
 #EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US| CBS SPORTS NETWORK HD" tvg-logo="https://lo1.in/us/cbsss.png" group-title="SPORT VPN",US| CBS SPORTS NETWORK HD
 http://rpbjgudz.megavip.cc:80/6963549400/9731329614/32109
 #EXTINF:-1 tvg-id="" tvg-name="US| CBS SPORTS GOLAZO NETWORK HD" tvg-logo="https://lo1.in/us/cbsss.png" group-title="SPORT VPN",US| CBS SPORTS GOLAZO NETWORK HD
@@ -4156,6 +4166,36 @@ http://rpbjgudz.megavip.cc:80/6963549400/9731329614/1410772
 http://rpbjgudz.megavip.cc:80/6963549400/9731329614/1410773
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="FIFA-BR| SPORTV 3 HD" tvg-logo="https://lo1.in/BR/spt3.png" group-title="SPORT VPN",FIFA-BR| SPORTV 3 HD
 http://rpbjgudz.megavip.cc:80/6963549400/9731329614/1410774
+EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="UEFA-PT| SPORT TV 1 HD" tvg-logo="https://lo1.in/por/sptv1.png" group-title="SPORT VPN",UEFA-PT| SPORT TV 1 HD
+http://rpbjgudz.megavip.cc:80/3882956374/3057047756/844232
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="UEFA-PT| SPORT TV 2 HD" tvg-logo="https://lo1.in/por/spttvv2.png" group-title="SPORT VPN",UEFA-PT| SPORT TV 2 HD
+http://rpbjgudz.megavip.cc:80/3882956374/3057047756/844231
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="UEFA-PT| SPORT TV 3 HD" tvg-logo="https://lo1.in/por/spotv3.png" group-title="SPORT VPN",UEFA-PT| SPORT TV 3 HD
+http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1410700
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN : SERIE A 2 INTER" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPORT VPN",IT| DAZN : SERIE A 2 INTER
+http://rpbjgudz.megavip.cc:80/6963549400/9731329614/8804
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN : SERIE A 13 MONZA" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPORT VPN",IT| DAZN : SERIE A 13 MONZA
+http://rpbjgudz.megavip.cc:80/6963549400/9731329614/8791
+#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 001" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 001
+http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240699
+#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 002" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 002
+http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240698
+#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 003" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 003
+http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240697
+#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 004" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 004
+http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240696
+#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 005" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 005
+http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240695
+#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 006" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 006
+http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240694
+#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 007" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 007
+http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240693
+#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 008" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 008
+http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240692
+#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 009" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 009
+http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240691
+#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 010" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 010
+http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240690
 
 
 
