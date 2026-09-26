@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg-guide.com/wltv.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz" url-tvg="http://epg-guide.com/wltv.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz" 
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 06/09/2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 26/09/2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/rai.png" group-title="Canali RAI",=== Canali RAI===
@@ -4565,6 +4565,100 @@ http://8.243.126.131:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",DAZN (UK) (🇬🇧)
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 
+#EXTINF:-1 tvg-id="DIGI SPORT 1 UHD" tvg-name="DIGI SPORT 1 UHD" tvg-logo="" group-title="SPORT",DIGI SPORT 1 UHD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/33796
+#EXTINF:-1 tvg-id="DIGI SPORT 1 HD" tvg-name="DIGI SPORT 1 HD" tvg-logo="" group-title="SPORT",DIGI SPORT 1 HD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/33797
+#EXTINF:-1 tvg-id="DIGI SPORT 1 SD" tvg-name="DIGI SPORT 1 SD" tvg-logo="" group-title="SPORT",DIGI SPORT 1 SD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/268927
+#EXTINF:-1 tvg-id="DIGI SPORT 1 4K" tvg-name="DIGI SPORT 1 4K" tvg-logo="" group-title="SPORT",DIGI SPORT 1 4K
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/62775
+#EXTINF:-1 tvg-id="DIGI SPORT 1 FIBRA" tvg-name="DIGI SPORT 1 FIBRA" tvg-logo="" group-title="SPORT",DIGI SPORT 1 FIBRA
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/277313
+#EXTINF:-1 tvg-id="DIGI SPORT 2 UHD" tvg-name="DIGI SPORT 2 UHD" tvg-logo="" group-title="SPORT",DIGI SPORT 2 UHD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/34069
+#EXTINF:-1 tvg-id="DIGI SPORT 2 HD" tvg-name="DIGI SPORT 2 HD" tvg-logo="" group-title="SPORT",DIGI SPORT 2 HD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/33799
+#EXTINF:-1 tvg-id="DIGI SPORT 2 SD" tvg-name="DIGI SPORT 2 SD" tvg-logo="" group-title="SPORT",DIGI SPORT 2 SD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/33800
+#EXTINF:-1 tvg-id="DIGI SPORT 2 4K" tvg-name="DIGI SPORT 2 4K" tvg-logo="" group-title="SPORT",DIGI SPORT 2 4K
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/116132
+#EXTINF:-1 tvg-id="DIGI SPORT 2 FIBRA" tvg-name="DIGI SPORT 2 FIBRA" tvg-logo="" group-title="SPORT",DIGI SPORT 2 FIBRA
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/277314
+#EXTINF:-1 tvg-id="DIGI SPORT 3 UHD" tvg-name="DIGI SPORT 3 UHD" tvg-logo="" group-title="SPORT",DIGI SPORT 3 UHD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/34071
+#EXTINF:-1 tvg-id="DIGI SPORT 3 HD" tvg-name="DIGI SPORT 3 HD" tvg-logo="" group-title="SPORT",DIGI SPORT 3 HD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/33801
+#EXTINF:-1 tvg-id="DIGI SPORT 3" tvg-name="DIGI SPORT 3" tvg-logo="" group-title="SPORT",DIGI SPORT 3
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/33802
+#EXTINF:-1 tvg-id="DIGI SPORT 3 4K" tvg-name="DIGI SPORT 3 4K" tvg-logo="" group-title="SPORT",DIGI SPORT 3 4K
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/185269
+#EXTINF:-1 tvg-id="DIGI SPORT 3 FIBRA" tvg-name="DIGI SPORT 3 FIBRA" tvg-logo="" group-title="SPORT",DIGI SPORT 3 FIBRA
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/277315
+#EXTINF:-1 tvg-id="DIGI SPORT 4 UHD" tvg-name="DIGI SPORT 4 UHD" tvg-logo="" group-title="SPORT",DIGI SPORT 4 UHD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/498425
+#EXTINF:-1 tvg-id="DIGI SPORT 4 HD" tvg-name="DIGI SPORT 4 HD" tvg-logo="" group-title="SPORT",DIGI SPORT 4 HD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/33803
+#EXTINF:-1 tvg-id="DIGI SPORT 4" tvg-name="DIGI SPORT 4" tvg-logo="" group-title="SPORT",DIGI SPORT 4
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/33804
+#EXTINF:-1 tvg-id="DIGI SPORT 4 4K" tvg-name="DIGI SPORT 4 4K" tvg-logo="" group-title="SPORT",DIGI SPORT 4 4K
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/185268
+#EXTINF:-1 tvg-id="DIGI SPORT 4 FIBRA" tvg-name="DIGI SPORT 4 FIBRA" tvg-logo="" group-title="SPORT",DIGI SPORT 4 FIBRA
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/277316
+#EXTINF:-1 tvg-id="DIGI 4K" tvg-name="DIGI 4K" tvg-logo="" group-title="SPORT",DIGI 4K
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/260604
+#EXTINF:-1 tvg-id="PRO ARENA UHD" tvg-name="PRO ARENA UHD" tvg-logo="" group-title="SPORT",PRO ARENA UHD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/228695
+#EXTINF:-1 tvg-id="PRO ARENA HD" tvg-name="PRO ARENA HD" tvg-logo="" group-title="SPORT",PRO ARENA HD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/33817
+#EXTINF:-1 tvg-id="PRO ARENA SD" tvg-name="PRO ARENA SD" tvg-logo="" group-title="SPORT",PRO ARENA SD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/33818
+#EXTINF:-1 tvg-id="PRO ARENA FIBRA" tvg-name="PRO ARENA FIBRA" tvg-logo="" group-title="SPORT",PRO ARENA FIBRA
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/277310
+#EXTINF:-1 tvg-id="PRIMA SPORT 1" tvg-name="PRIMA SPORT 1" tvg-logo="" group-title="SPORT",PRIMA SPORT 1
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/33816
+#EXTINF:-1 tvg-id="PRIMA SPORT 1 HD" tvg-name="PRIMA SPORT 1 HD" tvg-logo="" group-title="SPORT",PRIMA SPORT 1 HD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/33815
+#EXTINF:-1 tvg-id="PRIMA SPORT 1 UHD" tvg-name="PRIMA SPORT 1 UHD" tvg-logo="" group-title="SPORT",PRIMA SPORT 1 UHD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/146486
+#EXTINF:-1 tvg-id="PRIMA SPORT 1 FIBRA" tvg-name="PRIMA SPORT 1 FIBRA" tvg-logo="" group-title="SPORT",PRIMA SPORT 1 FIBRA
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/277319
+#EXTINF:-1 tvg-id="PRIMA SPORT 2" tvg-name="PRIMA SPORT 2" tvg-logo="" group-title="SPORT",PRIMA SPORT 2
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/56167
+#EXTINF:-1 tvg-id="PRIMA SPORT 2 UHD" tvg-name="PRIMA SPORT 2 UHD" tvg-logo="" group-title="SPORT",PRIMA SPORT 2 UHD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/146488
+#EXTINF:-1 tvg-id="PRIMA SPORT 2 FIBRA" tvg-name="PRIMA SPORT 2 FIBRA" tvg-logo="" group-title="SPORT",PRIMA SPORT 2 FIBRA
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/277320
+#EXTINF:-1 tvg-id="PRIMA SPORT 3 SD" tvg-name="PRIMA SPORT 3 SD" tvg-logo="" group-title="SPORT",PRIMA SPORT 3 SD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/185253
+#EXTINF:-1 tvg-id="PRIMA SPORT 3 UHD" tvg-name="PRIMA SPORT 3 UHD" tvg-logo="" group-title="SPORT",PRIMA SPORT 3 UHD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/157160
+#EXTINF:-1 tvg-id="PRIMA SPORT 3 FIBRA" tvg-name="PRIMA SPORT 3 FIBRA" tvg-logo="" group-title="SPORT",PRIMA SPORT 3 FIBRA
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/277321
+#EXTINF:-1 tvg-id="PRIMA SPORT 4 HD" tvg-name="PRIMA SPORT 4 HD" tvg-logo="" group-title="SPORT",PRIMA SPORT 4 HD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/245819
+#EXTINF:-1 tvg-id="PRIMA SPORT 4 UHD" tvg-name="PRIMA SPORT 4 UHD" tvg-logo="" group-title="SPORT",PRIMA SPORT 4 UHD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/157161
+#EXTINF:-1 tvg-id="PRIMA SPORT 4 FIBRA" tvg-name="PRIMA SPORT 4 FIBRA" tvg-logo="" group-title="SPORT",PRIMA SPORT 4 FIBRA
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/277322
+#EXTINF:-1 tvg-id="PRIMA SPORT 5 SD" tvg-name="PRIMA SPORT 5 SD" tvg-logo="" group-title="SPORT",PRIMA SPORT 5 SD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/185254
+#EXTINF:-1 tvg-id="PRIMA SPORT 5 UHD" tvg-name="PRIMA SPORT 5 UHD" tvg-logo="" group-title="SPORT",PRIMA SPORT 5 UHD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/157162
+#EXTINF:-1 tvg-id="PRIMA SPORT 5 FIBRA" tvg-name="PRIMA SPORT 5 FIBRA" tvg-logo="" group-title="SPORT",PRIMA SPORT 5 FIBRA
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/277323
+#EXTINF:-1 tvg-id="EUROSPORT 1 FHD" tvg-name="EUROSPORT 1 FHD" tvg-logo="" group-title="SPORT",EUROSPORT 1 FHD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/33810
+#EXTINF:-1 tvg-id="EUROSPORT 1 SD" tvg-name="EUROSPORT 1 SD" tvg-logo="" group-title="SPORT",EUROSPORT 1 SD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/268946
+#EXTINF:-1 tvg-id="EUROSPORT 1 HD" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="SPORT",EUROSPORT 1 HD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/277317
+#EXTINF:-1 tvg-id="EUROSPORT 2 FHD" tvg-name="EUROSPORT 2 FHD" tvg-logo="" group-title="SPORT",EUROSPORT 2 FHD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/33812
+#EXTINF:-1 tvg-id="EUROSPORT 2 SD" tvg-name="EUROSPORT 2 SD" tvg-logo="" group-title="SPORT",EUROSPORT 2 SD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/268947
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD" tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="SPORT",EUROSPORT 2 HD
+http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/277318
 
 
 
