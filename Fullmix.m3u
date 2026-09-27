@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg-guide.com/wltv.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz" url-tvg="http://epg-guide.com/wltv.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz" 
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 26/09/2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 27/09/2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/rai.png" group-title="Canali RAI",=== Canali RAI===
@@ -4141,19 +4141,9 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="=== SPORT VPN ===" tvg-name="=== SPORT VPN ===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="SPORT VPN",=== SPORT VPN ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="" tvg-name="CA| TLN HD" tvg-logo="https://lo1.in/ca/tln0.png" group-title="SPORT VPN",CA| TLN HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/100384
-#EXTINF:-1 tvg-id="" tvg-name="CA| TLN+ HD" tvg-logo="https://lo1.in/ca/tln0.png" group-title="SPORT VPN",CA| TLN+ HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/100004
-#EXTINF:-1 tvg-id="" tvg-name="CA| TLN HD" tvg-logo="https://lo1.in/ca/tln0.png" group-title="SPORT VPN",CA| TLN HD
 http://rpbjgudz.megavip.cc:80/6963549400/9731329614/100384
 #EXTINF:-1 tvg-id="" tvg-name="CA| TLN+ HD" tvg-logo="https://lo1.in/ca/tln0.png" group-title="SPORT VPN",CA| TLN+ HD
 http://rpbjgudz.megavip.cc:80/6963549400/9731329614/100004
-#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US| CBS SPORTS NETWORK HD" tvg-logo="https://lo1.in/us/cbsss.png" group-title="SPORT VPN",US| CBS SPORTS NETWORK HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/32109
-#EXTINF:-1 tvg-id="" tvg-name="US| CBS SPORTS GOLAZO NETWORK HD" tvg-logo="https://lo1.in/us/cbsss.png" group-title="SPORT VPN",US| CBS SPORTS GOLAZO NETWORK HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/3959
-#EXTINF:-1 tvg-id="" tvg-name="US| CBS SPORTS HQ HD" tvg-logo="https://lo1.in/us/cbss0.png" group-title="SPORT VPN",US| CBS SPORTS HQ HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/33100
 #EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US| CBS SPORTS NETWORK HD" tvg-logo="https://lo1.in/us/cbsss.png" group-title="SPORT VPN",US| CBS SPORTS NETWORK HD
 http://rpbjgudz.megavip.cc:80/6963549400/9731329614/32109
 #EXTINF:-1 tvg-id="" tvg-name="US| CBS SPORTS GOLAZO NETWORK HD" tvg-logo="https://lo1.in/us/cbsss.png" group-title="SPORT VPN",US| CBS SPORTS GOLAZO NETWORK HD
@@ -4166,115 +4156,12 @@ http://rpbjgudz.megavip.cc:80/6963549400/9731329614/1410772
 http://rpbjgudz.megavip.cc:80/6963549400/9731329614/1410773
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="FIFA-BR| SPORTV 3 HD" tvg-logo="https://lo1.in/BR/spt3.png" group-title="SPORT VPN",FIFA-BR| SPORTV 3 HD
 http://rpbjgudz.megavip.cc:80/6963549400/9731329614/1410774
-EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="UEFA-PT| SPORT TV 1 HD" tvg-logo="https://lo1.in/por/sptv1.png" group-title="SPORT VPN",UEFA-PT| SPORT TV 1 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/844232
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="UEFA-PT| SPORT TV 2 HD" tvg-logo="https://lo1.in/por/spttvv2.png" group-title="SPORT VPN",UEFA-PT| SPORT TV 2 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/844231
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="UEFA-PT| SPORT TV 3 HD" tvg-logo="https://lo1.in/por/spotv3.png" group-title="SPORT VPN",UEFA-PT| SPORT TV 3 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1410700
 #EXTINF:-1 tvg-id="" tvg-name="IT| DAZN : SERIE A 2 INTER" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPORT VPN",IT| DAZN : SERIE A 2 INTER
 http://rpbjgudz.megavip.cc:80/6963549400/9731329614/8804
 #EXTINF:-1 tvg-id="" tvg-name="IT| DAZN : SERIE A 13 MONZA" tvg-logo="https://lo1.in/it/dzn.png" group-title="SPORT VPN",IT| DAZN : SERIE A 13 MONZA
 http://rpbjgudz.megavip.cc:80/6963549400/9731329614/8791
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 001" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 001
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240699
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 002" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 002
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240698
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 003" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 003
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240697
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 004" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 004
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240696
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 005" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 005
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240695
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 006" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 006
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240694
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 007" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 007
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240693
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 008" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 008
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240692
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 009" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 009
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240691
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 010" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 010
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240690
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 011" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 011
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240689
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 012" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 012
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240688
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 013" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 013
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240687
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 014" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 014
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240686
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 015" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 015
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240685
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 016" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 016
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240684
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 017" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 017
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240683
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 018" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 018
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240682
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 019" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 019
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1240681
-#EXTINF:-1 tvg-id="" tvg-name="US| PARAMOUNT PPV 020" tvg-logo="https://lo1.in/us/prmm.png" group-title="SPORT VPN",US| PARAMOUNT PPV 020
-#EXTINF:-1 tvg-id="" tvg-name="UEFA-RO| PRIMA SPORT 3 HD" tvg-logo="https://lo1.in/rom/looksp.png" group-title="SPORT VPN",UEFA-RO| PRIMA SPORT 3 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/844239
-#EXTINF:-1 tvg-id="" tvg-name="UEFA-RO| PRIMA SPORT 2 HD" tvg-logo="https://lo1.in/rom/looksp2.png" group-title="SPORT VPN",UEFA-RO| PRIMA SPORT 2 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/844240
-#EXTINF:-1 tvg-id="" tvg-name="UEFA-RO| PRIMA SPORT HD" tvg-logo="https://lo1.in/rom/looksp.png" group-title="SPORT VPN",UEFA-RO| PRIMA SPORT HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/844241
-#EXTINF:-1 tvg-id="" tvg-name="FR-REU| Bein sports 1 HD" tvg-logo="https://lo1.in/fr/bns1.png" group-title="SPORT VPN",FR-REU| Bein sports 1 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/4770
-#EXTINF:-1 tvg-id="" tvg-name="FR-REU| Bein sports 2 HD" tvg-logo="https://lo1.in/fr/bns2.png" group-title="SPORT VPN",FR-REU| Bein sports 2 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/4769
-#EXTINF:-1 tvg-id="" tvg-name="FR-REU| Bein sports 3 HD" tvg-logo="https://lo1.in/fr/bns3.png" group-title="SPORT VPN",FR-REU| Bein sports 3 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/4768
-#EXTINF:-1 tvg-id="" tvg-name="FR-REU| Bein sports max 4 HD" tvg-logo="https://lo1.in/fr/bnsm4.png" group-title="SPORT VPN",FR-REU| Bein sports max 4 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/4767
-#EXTINF:-1 tvg-id="" tvg-name="FR-REU| Bein sports max 5 HD" tvg-logo="https://lo1.in/fr/bnsm5.png" group-title="SPORT VPN",FR-REU| Bein sports max 5 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/4766
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FIFA-US| FOX SPORTS 1 HD" tvg-logo="https://lo1.in/us/fxs10.png" group-title="SPORT VPN",FIFA-US| FOX SPORTS 1 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1410736
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="FIFA-BR| SPORTV 1 HD" tvg-logo="https://lo1.in/BR/sp1.png" group-title="SPORT VPN",FIFA-BR| SPORTV 1 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1410772
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="FIFA-BR| SPORTV 2 HD" tvg-logo="https://lo1.in/BR/spt2.png" group-title="SPORT VPN",FIFA-BR| SPORTV 2 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1410773
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="FIFA-BR| SPORTV 3 HD" tvg-logo="https://lo1.in/BR/spt3.png" group-title="SPORT VPN",FIFA-BR| SPORTV 3 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1410774
-#EXTINF:-1 tvg-id="" tvg-name="ASIA-IR| PERSIANA SPORTS" tvg-logo="https://lo1.in/iran/flg.png" group-title="SPORT VPN",ASIA-IR| PERSIANA SPORTS
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1470727
-#EXTINF:-1 tvg-id="" tvg-name="ASIA-IR| VARZISH SPORT FHD" tvg-logo="https://lo1.in/iran/var.png" group-title="SPORT VPN",ASIA-IR| VARZISH SPORT FHD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1470728
 
 
-#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UEFA-UK| BBC 1 HD" tvg-logo="https://lo1.in/uk/bbc1.png" group-title="SPORT VPN",UEFA-UK| BBC 1 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1177966
-#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UEFA-UK| BBC 2 HD" tvg-logo="https://lo1.in/uk/bbc2.png" group-title="SPORT VPN",UEFA-UK| BBC 2 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1177965
-#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UEFA-UK| ITV 1 HD" tvg-logo="https://lo1.in/uk/itv0.png" group-title="SPORT VPN",UEFA-UK| ITV 1 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1177964
-#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UEFA-UK| ITV 2 HD" tvg-logo="https://lo1.in/uk/itv20.png" group-title="SPORT VPN",UEFA-UK| ITV 2 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1177963
-#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UEFA-UK| ITV 3 HD" tvg-logo="https://lo1.in/uk/itv30.png" group-title="SPORT VPN",UEFA-UK| ITV 3 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1177962
-#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UEFA-UK| ITV 4 HD" tvg-logo="https://lo1.in/uk/itv40.png" group-title="SPORT VPN",UEFA-UK| ITV 4 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/1177961
-#EXTINF:-1 tvg-id="" tvg-name="FR-REU| France 2 HD" tvg-logo="https://lo1.in/fr/France 2.png" group-title="SPORT VPN",FR-REU| France 2 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/4746
-#EXTINF:-1 tvg-id="" tvg-name="FR-REU| France 3 HD" tvg-logo="https://lo1.in/fr/France 3 HD.png" group-title="SPORT VPN",FR-REU| France 3 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/4744
-#EXTINF:-1 tvg-id="" tvg-name="FR-REU| France 4 HD" tvg-logo="https://lo1.in/fr/France 4 HD.png" group-title="SPORT VPN",FR-REU| France 4 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/4743
-#EXTINF:-1 tvg-id="" tvg-name="FR-REU| France 5 HD" tvg-logo="https://lo1.in/fr/France 5 HD.png" group-title="SPORT VPN",FR-REU| France 5 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/4742
-#EXTINF:-1 tvg-id="" tvg-name="FR-REU| France 24 HD" tvg-logo="https://lo1.in/fr/France 24.png" group-title="SPORT VPN ",FR-REU| France 24 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/4745
-#EXTINF:-1 tvg-id="" tvg-name="FR-REU| M6 HD" tvg-logo="https://lo1.in/fr/m6hdd.png" group-title="SPORT VPN",FR-REU| M6 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/4733
-#EXTINF:-1 tvg-id="" tvg-name="FR-REU| Tf1 HD" tvg-logo="https://lo1.in/fr/Tf1 HD.png" group-title="SPORT VPN",FR-REU| Tf1 HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/4785
-#EXTINF:-1 tvg-id="" tvg-name="FR-REU| Tmc HD" tvg-logo="https://lo1.in/fr/Tmc HD.png" group-title="SPORT VPN",FR-REU| Tmc HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/4783
-#EXTINF:-1 tvg-id="" tvg-name="FR-REU| Tfx HD" tvg-logo="https://lo1.in/fr/Tfx HD.png" group-title="SPORT VPN",FR-REU| Tfx HD
-http://rpbjgudz.megavip.cc:80/3882956374/3057047756/4784
 
 
 
@@ -4470,45 +4357,6 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=13127
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1314053&extension=ts&play_token=gxB4mAs04v
 
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://iptvbeka.net/albanian/SuperSport 1.png",AL: Super Sport 1 HD
-http://cmskos.bekaks.net:777/gentianbraha/54FMPN4l9E/63
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://iptvbeka.net/albanian/SuperSport 5.png",AL: Super Sport 5 HD
-http://cmskos.bekaks.net:777/gentianbraha/54FMPN4l9E/360
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://iptvbeka.net/albanian/SuperSport 6.png",AL: Super Sport 6 HD
-http://cmskos.bekaks.net:777/gentianbraha/54FMPN4l9E/361
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://iptvbeka.net/albanian/Super Sport Kosova 1.png",AL: Super Sport Kosova 1
-http://cmskos.bekaks.net:777/gentianbraha/54FMPN4l9E/5602
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://iptvbeka.net/albanian/Super Sport Kosova 2.png",AL: Super Sport Kosova 2
-http://cmskos.bekaks.net:777/gentianbraha/54FMPN4l9E/5603
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://iptvbeka.net/albanian/Tring Sport News HD.png",AL: Tring Sport News HD
-http://cmskos.bekaks.net:777/gentianbraha/54FMPN4l9E/28
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%202.png",AL: ART Sport 2 HD
-http://cmskos.bekaks.net:777/gentianbraha/54FMPN4l9E/3554
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%203.png",AL: ART Sport 3 HD
-http://cmskos.bekaks.net:777/gentianbraha/54FMPN4l9E/3553
-#EXTINF:-1 group-title="SPORT" tvg-logo="http://iptvbeka.net/albanian/ART Sport 6 HD.png",AL: ART Sport 6 HD
-http://cmskos.bekaks.net:777/gentianbraha/54FMPN4l9E/5167
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",||IT|| DAZN 1 HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/53327.ts
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",||IT|| DAZN 2 HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/53328.ts
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",||IT|| DAZN 3 HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/98917.ts
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",||IT|| DAZN 4 HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/98919.ts
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",||IT|| DAZN 5 HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/98920.ts
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",||IT|| DAZN 6 HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/98921.ts
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",||IT|| DAZN 7 HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/98922.ts
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",||IT|| DAZN 8 HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/98923.ts
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",||IT|| DAZN 9 HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/98924.ts
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",||IT|| DAZN 10 HD
-http://obsfullhd.tv:25461/live/lacherejc/OannyVVIL2/98918.ts
 
 
 
@@ -4522,46 +4370,6 @@ https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Belarus-5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Azteca Deportes (Mexico) (🇲🇽)
-http://141.136.61.2:8000/play/a092/index.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 1 (Francia) (🇫🇷)
-http://41.205.70.146/BEINSPORT1/index.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 1 (Francia) (🇫🇷)
-http://update1.faceboock.ro/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/78542.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 2 (Francia) (🇫🇷)
-http://41.205.70.146/BEINSPORT2/index.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 2 (Francia) (🇫🇷)
-http://update1.faceboock.ro/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/78543.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 3 (Francia) (🇫🇷)
-http://41.205.70.146/BEINSPORT3/index.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 3 (Francia) (🇫🇷)
-http://145.239.5.177/559/index.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 3 (Francia) (🇫🇷)
-http://update1.faceboock.ro/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/78544.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 4 (Francia) (🇫🇷)
-http://41.205.70.146/BEINSPORT4/index.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 4 (Francia) (🇫🇷)
-http://145.239.5.177/515/index.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 5 (Francia) (🇫🇷)
-http://41.205.70.146/BEINSPORT5/index.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports 5 (Francia) (🇫🇷)
-http://145.239.5.177/572/index.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports Xtra (UK) (🇬🇧)
-http://bein-xtra-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports Xtra (USA) (🇺🇸)
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports Xtra Ñ (España) (🇪🇸)
-https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports Xtra Ñ (Mexico) (🇲🇽)
-http://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=AMEnSC7IH-6CcedzDh-1Ew&e=2068161254
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Bein Sports Ñ (España) (🇪🇸)
-https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Claro Sports (España) (🇪🇸🇲🇽🇨🇴🇦🇷🇵🇪🇨🇱)
-http://8.243.126.131:8000/play/a0f0/index.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Claro Sports 2 (España) (🇪🇸🇲🇽🇨🇴🇦🇷🇵🇪🇨🇱)
-http://200.35.176.154:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Deportes M+ (España) (🇪🇸🇲🇽🇨🇴🇦🇷🇵🇪🇨🇱)
-http://8.243.126.131:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",DAZN (UK) (🇬🇧)
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 
@@ -4661,135 +4469,53 @@ http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/268947
 http://192.142.25.232:8080/Calian_sergiu/qJgyGxnZ/277318
 
 
-
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE: DAZN 1 Bar HD" tvg-logo="https://imagizer.imageshack.com/img923/7478/sD6JKb.png" group-title="SPORT",DE: DAZN 1 Bar HD
-http://amazingiptv1.one:8080/Caferbalki/TcyjgdYhibt46/96686
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE: DAZN 2 Bar HD" tvg-logo="https://imagizer.imageshack.com/img924/7842/HXXbfH.png" group-title="SPORT",DE: DAZN 2 Bar HD
-http://amazingiptv1.one:8080/Caferbalki/TcyjgdYhibt46/96687
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE: DAZN 1 Bar HD" tvg-logo="https://imagizer.imageshack.com/img923/7478/sD6JKb.png" group-title="SPORT",DE: DAZN 1 Bar HD
-http://amazingiptv1.one:8080/Volkanmetinn3555/n7R7G4LQD6Uz/96686
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE: DAZN 2 Bar HD" tvg-logo="https://imagizer.imageshack.com/img924/7842/HXXbfH.png" group-title="SPORT",DE: DAZN 2 Bar HD
-http://amazingiptv1.one:8080/Volkanmetinn3555/n7R7G4LQD6Uz/96687
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE: DAZN 1 Bar HD" tvg-logo="https://imagizer.imageshack.com/img923/7478/sD6JKb.png" group-title="SPORT",DE: DAZN 1 Bar HD
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/96686
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE: DAZN 2 Bar HD" tvg-logo="https://imagizer.imageshack.com/img924/7842/HXXbfH.png" group-title="SPORT",DE: DAZN 2 Bar HD
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/96687
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: VIP TNT SPORT 1" tvg-logo="https://i.ibb.co/2tkKrbx/tnt-sport-1.png" group-title="SPORT",UK: VIP TNT SPORT 1
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/525320
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP TNT SPORT 1 HD" tvg-logo="https://i.ibb.co/2tkKrbx/tnt-sport-1.png" group-title="SPORT",UK: VIP TNT SPORT 1 HD
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/525321
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP TNT SPORT 1 FHD" tvg-logo="https://i.ibb.co/2tkKrbx/tnt-sport-1.png" group-title="SPORT",UK: VIP TNT SPORT 1 FHD
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/525322
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP TNT SPORT 2 HD" tvg-logo="https://i.ibb.co/ZHp6hXc/tnt-sport-2.png" group-title="SPORT",UK: VIP TNT SPORT 2 HD
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/525323
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: VIP TNT SPORT 3" tvg-logo="https://i.ibb.co/YR3ZGjR/tnt-sport-3.png" group-title="SPORT",UK: VIP TNT SPORT 3
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/525324
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP TNT SPORT 3 HD" tvg-logo="https://i.ibb.co/YR3ZGjR/tnt-sport-3.png" group-title="SPORT",UK: VIP TNT SPORT 3 HD
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/525325
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP TNT SPORT 4 HD" tvg-logo="https://i.ibb.co/kc5GxYH/tnt-sport-4.png" group-title="SPORT",UK: VIP TNT SPORT 4 HD
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/525326
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP TNT SPORT 4" tvg-logo="https://i.ibb.co/kc5GxYH/tnt-sport-4.png" group-title="SPORT",UK: VIP TNT SPORT 4
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/525327
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP TNT SPORT 5 HD" tvg-logo="https://i.ibb.co/9bZ3tg8/rsz-tntsports5-logo-tntblack-rgb.png" group-title="SPORT",UK: VIP TNT SPORT 5 HD
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/525328
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP TNT SPORT 6 HD" tvg-logo="https://i.ibb.co/2tM1Fyg/tnt-sport-6.png" group-title="SPORT",UK: VIP TNT SPORT 6 HD
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/525329
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP TNT SPORT 7 HD" tvg-logo="https://i.ibb.co/GJsSLCS/tnt-sport-7.png" group-title="SPORT",UK: VIP TNT SPORT 7 HD
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/525330
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP TNT SPORT 8 HD" tvg-logo="https://i.ibb.co/vvnQSKn/tnt-sport-8.png" group-title="SPORT",UK: VIP TNT SPORT 8 HD
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/525331
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP TNT SPORT 9 HD" tvg-logo="https://i.ibb.co/JpShk06/tnt-sport-9.png" group-title="SPORT",UK: VIP TNT SPORT 9 HD
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/525332
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP TNT SPORT 10 HD" tvg-logo="https://i.ibb.co/RvdmKPH/tnt-sport-10.png" group-title="SPORT",UK: VIP TNT SPORT 10 HD
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/525333
-#EXTINF:-1 tvg-id="" tvg-name="HU: DIGI SPORT 1" tvg-logo="http://sltv-icon.cms-s.com/logo/HUNGARIAN/macar2021/digisport1.png" group-title="SPORT",HU: DIGI SPORT 1
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/521910
-#EXTINF:-1 tvg-id="" tvg-name="HU: DIGI SPORT 2" tvg-logo="http://sltv-icon.cms-s.com/logo/HUNGARIAN/macar2021/digisport2.png" group-title="SPORT",HU: DIGI SPORT 2
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/521911
-#EXTINF:-1 tvg-id="" tvg-name="HU: DIGI SPORT 3" tvg-logo="http://sltv-icon.cms-s.com/logo/HUNGARIAN/macar2021/digisport3.png" group-title="SPORT",HU: DIGI SPORT 3
-http://amazingiptv1.one:8080/AhmetPapaGuengoer/XLP8qSZ3K8M3/521912
+#EXTINF:-1 tvg-id="US: ESPN 2" tvg-name="US: ESPN 2" tvg-logo="" group-title="SPORT",US: ESPN 2
+http://23.153.217.158:8080/71531719/9D87T76TagX/23585
+#EXTINF:-1 tvg-id="US: ESPN 1" tvg-name="US: ESPN 1" tvg-logo="" group-title="SPORT",US: ESPN 1
+http://23.153.217.158:8080/71531719/9D87T76TagX/23586
+#EXTINF:-1 tvg-id="US: ESPN U" tvg-name="US: ESPN U" tvg-logo="" group-title="SPORT",US: ESPN U
+http://23.153.217.158:8080/71531719/9D87T76TagX/23581
+#EXTINF:-1 tvg-id="DEP• FOX SPORTS 1 AR (HD) »1«" tvg-name="DEP• FOX SPORTS 1 AR (HD) »1«" tvg-logo="" group-title="SPORT",DEP• FOX SPORTS 1 AR (HD) »1«
+http://23.153.217.158:8080/71531719/9D87T76TagX/456
+#EXTINF:-1 tvg-id="DEP• FOX SPORTS 1 AR (HD) »2«" tvg-name="DEP• FOX SPORTS 1 AR (HD) »2«" tvg-logo="" group-title="SPORT",DEP• FOX SPORTS 1 AR (HD) »2«
+http://23.153.217.158:8080/71531719/9D87T76TagX/457
+#EXTINF:-1 tvg-id="DEP• FOX SPORTS 1 AR (HD) »3«" tvg-name="DEP• FOX SPORTS 1 AR (HD) »3«" tvg-logo="" group-title="SPORT",DEP• FOX SPORTS 1 AR (HD) »3«
+http://23.153.217.158:8080/71531719/9D87T76TagX/458
+#EXTINF:-1 tvg-id="DEP• FOX SPORTS 1 AR (HD) »4«" tvg-name="DEP• FOX SPORTS 1 AR (HD) »4«" tvg-logo="" group-title="SPORT",DEP• FOX SPORTS 1 AR (HD) »4«
+http://23.153.217.158:8080/71531719/9D87T76TagX/525
+#EXTINF:-1 tvg-id="DEP• FOX SPORTS 2 MX (HD) »1«" tvg-name="DEP• FOX SPORTS 2 MX (HD) »1«" tvg-logo="" group-title="SPORT",DEP• FOX SPORTS 2 MX (HD) »1«
+http://23.153.217.158:8080/71531719/9D87T76TagX/529
+#EXTINF:-1 tvg-id="DEP• FOX SPORTS 2 MX (HD) »2«" tvg-name="DEP• FOX SPORTS 2 MX (HD) »2«" tvg-logo="" group-title="SPORT",DEP• FOX SPORTS 2 MX (HD) »2«
+http://23.153.217.158:8080/71531719/9D87T76TagX/531
+#EXTINF:-1 tvg-id="DEP• FOX SPORTS 2 MX (HD) »3«" tvg-name="DEP• FOX SPORTS 2 MX (HD) »3«" tvg-logo="" group-title="SPORT",DEP• FOX SPORTS 2 MX (HD) »3«
+http://23.153.217.158:8080/71531719/9D87T76TagX/535
+#EXTINF:-1 tvg-id="DEP• FOX SPORTS 3 AR (HD) »1«" tvg-name="DEP• FOX SPORTS 3 AR (HD) »1«" tvg-logo="" group-title="SPORT",DEP• FOX SPORTS 3 AR (HD) »1«
+http://23.153.217.158:8080/71531719/9D87T76TagX/455
+#EXTINF:-1 tvg-id="DEP• FOX SPORTS 3 AR (HD) »2«" tvg-name="DEP• FOX SPORTS 3 AR (HD) »2«" tvg-logo="" group-title="SPORT",DEP• FOX SPORTS 3 AR (HD) »2«
+http://23.153.217.158:8080/71531719/9D87T76TagX/537
+#EXTINF:-1 tvg-id="DEP• FOX SPORTS 3 AR (HD) »3«" tvg-name="DEP• FOX SPORTS 3 AR (HD) »3«" tvg-logo="" group-title="SPORT",DEP• FOX SPORTS 3 AR (HD) »3«
+http://23.153.217.158:8080/71531719/9D87T76TagX/538
+#EXTINF:-1 tvg-id="FCL• TNT SPORTS PREMIUM (HD) »3«" tvg-name="FCL• TNT SPORTS PREMIUM (HD) »3«" tvg-logo="" group-title="SPORT",FCL• TNT SPORTS PREMIUM (HD) »3«
+http://23.153.217.158:8080/71531719/9D87T76TagX/92
+#EXTINF:-1 tvg-id="FCL• TNT SPORTS PREMIUM (HD) »4«" tvg-name="FCL• TNT SPORTS PREMIUM (HD) »4«" tvg-logo="" group-title="SPORT",FCL• TNT SPORTS PREMIUM (HD) »4«
+http://23.153.217.158:8080/71531719/9D87T76TagX/93
+#EXTINF:-1 tvg-id="FCL• TNT SPORTS PREMIUM 2 (HD) »3«" tvg-name="FCL• TNT SPORTS PREMIUM 2 (HD) »3«" tvg-logo="" group-title="SPORT",FCL• TNT SPORTS PREMIUM 2 (HD) »3«
+http://23.153.217.158:8080/71531719/9D87T76TagX/96
+#EXTINF:-1 tvg-id="FCL• TNT SPORTS PREMIUM 2 (HD) »4«" tvg-name="FCL• TNT SPORTS PREMIUM 2 (HD) »4«" tvg-logo="" group-title="SPORT",FCL• TNT SPORTS PREMIUM 2 (HD) »4«
+http://23.153.217.158:8080/71531719/9D87T76TagX/97
+#EXTINF:-1 tvg-id="FCL• TNT SPORTS (HD) »1«" tvg-name="FCL• TNT SPORTS (HD) »1«" tvg-logo="" group-title="SPORT",FCL• TNT SPORTS (HD) »1«
+http://23.153.217.158:8080/71531719/9D87T76TagX/98
+#EXTINF:-1 tvg-id="FCL• TNT SPORTS (HD) »2«" tvg-name="FCL• TNT SPORTS (HD) »2«" tvg-logo="" group-title="SPORT",FCL• TNT SPORTS (HD) »2«
+http://23.153.217.158:8080/71531719/9D87T76TagX/99
+#EXTINF:-1 tvg-id="FCL• TNT SPORTS (HD) »3«" tvg-name="FCL• TNT SPORTS (HD) »3«" tvg-logo="" group-title="SPORT",FCL• TNT SPORTS (HD) »3«
+http://23.153.217.158:8080/71531719/9D87T76TagX/56659
+#EXTINF:-1 tvg-id="FCL• TNT SPORTS (HD) »4«" tvg-name="FCL• TNT SPORTS (HD) »4«" tvg-logo="" group-title="SPORT",FCL• TNT SPORTS (HD) »4«
+http://23.153.217.158:8080/71531719/9D87T76TagX/56660
+#EXTINF:-1 tvg-id="US: Fox Deportes HD" tvg-name="US: Fox Deportes HD" tvg-logo="" group-title="SPORT",US: Fox Deportes HD
+http://23.153.217.158:8080/71531719/9D87T76TagX/24030
 
 
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzY1XzE1NTMzNjVf/RGlnaV9TcG9ydF8xX0hELnBuZyZoYXNo/PTg4NjUwNzA4ZDA3YmJjMjhiYjEyYjU0MTUxZmI0M2Fj.png",Digi Sport 1 FHD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82429
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://static.epgguide.net/icon/digisport1.ro.png",Digi Sport 1 HDR (Net Bun)
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82438
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795952_2130.png&max=200",Digi Sport 2 HD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82434
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/FqYpb4QM/dsp2.png",Digi Sport 2 FHD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82430
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795782_4157.png&max=200",Digi Sport 2 HDR (Net Bun)
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82439
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795914_6683.png&max=200",Digi Sport 3 HD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82435
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/twj77rtx/DIGI-Sport-3-svg.png",Digi Sport 3 FHD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82431
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774795886_6514.png&max=200",Digi Sport 3 HDR (Net Bun)
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82440
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1775136311_2308.png&max=200",Digi Sport 4 HD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82436
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1775136311_2308.png&max=200",Digi Sport 4 FHD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82432
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1775136311_2308.png&max=200",Digi Sport 4 HDR (Net Bun)
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82441
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3NjlfMTI5ODc2OV9F/VVJPU1BPUlQtNEsucG5nJmhhc2g9YjM3/MTQzMzdmNTIyMDcwNTc5MGMyMGMwZDU1NjZlODg=.png",Eurosport 4K
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/17995
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774883892_5805.png&max=200",EuroSport1 Romania FHD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70382
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774883892_5805.png&max=200",EuroSport 1 HD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70387
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774883892_5805.png&max=200",EuroSport 1 FHD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70385
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774883983_7312.png&max=200",EuroSport 2 HD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70384
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png",EuroSport 2 FHD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70388
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774864847_9358.png&max=200",Prima 4K
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/19319
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ4XzE1NTM0NDhf/UHJpbWFfU3BvcnRfbmV3LnBuZyZoYXNo/PWU4MTQwMjY1NjkyNWRkODZjNjZhNGMzOTA3ODgzNDQ4.png",Prima Sport 1 HD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9106
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU4XzE1NTM2NThf/UHJpbWFfU3BvcnRfMV9IRC5wbmcmaGFz/aD0zMDNhMDcwZTcwZDRlOWY3MDA1OTY4ZDM3YjA4YjZmYQ==.png",Prima Sport 1 FHD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/31399
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774864638_4885.png&max=200",Prima Sport 1 HDR (Net Bun)
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70495
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4NzA2XzE1OTg3MDZf/UHJpbWEtU3BvcnQtMi1zaS1QcmltYS1T/cG9ydC0yLUhELnBuZyZoYXNoPWU5Zjdm/MDFjNWE1ZmI4ODE0MDJhMmYxM2EwYzhkZjA4.png",Prima Sport 2 HD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9105
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4NzE5XzE1OTg3MTlf/UHJpbWEtU3BvcnQtMi1zaS1QcmltYS1T/cG9ydC0yLUhEXzEucG5nJmhhc2g9NDBi/MDJiZTdiODJlN2U2NzI4ZWM5ZTUzMTc3MWMwZjA=.png",Prima Sport 2 FHD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9003
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774864638_4885.png&max=200",Prima Sport 2 HDR (Net Bun)
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70496
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4NzA3XzE1OTg3MDdf/UHJpbWEtU3BvcnQtMy0xLnBuZyZoYXNo/PTM3ZTZhODY3YjA5YzliYjdmNzM1YTVlZmYwM2E5YTc3.png",Prima Sport 3 HD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/30431
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU5XzE1NTM2NTlf/UHJpbWFfU3BvcnRfM19IRC5wbmcmaGFz/aD1kMTczNDcwNjljMjQ1ZWYyN2Q0MjM2MWVmZjlmNmNhYQ==.png",Prima Sport 3 FHD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9005
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774864638_4885.png&max=200",Prima Sport 3 HDR  (Net Bun)
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70497
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774864638_4885.png&max=200",Prima Sport 4 FHD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9004
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774864638_4885.png&max=200",Prima Sport 4 HDR (Net Bun)
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70498
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774864638_4885.png&max=200",Prima Sport 5 HD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37928
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774864638_4885.png&max=200",Prima Sport 5 FHD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/37842
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774864638_4885.png&max=200",Prima Sport 5 HDR  (Net Bun)
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70499
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDc1XzE1NTM0NzVf/U3BvcnRfRXh0cmFfSEQucG5nJmhhc2g9/NWNmYjJjMTM5ZTBjMzk4YjQ5NTcyODczNDk2OTlhMjg=.png",Sport Extra FHD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/29052
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774865385_9677.png&max=200",Pro Arena
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9104
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://opentvpanel.com:2096/resize.php?url=icons%2Ficon_1774865385_9677.png&max=200",Pro Arena FHD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/9006
 
-
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Digi Sport 1 (Rumania) (🇷🇴)
-http://update1.faceboock.ro/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82429.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Digi Sport 2 (Rumania) (🇷🇴)
-http://update1.faceboock.ro/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82430.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Digi Sport 3 (Rumania) (🇷🇴)
-http://update1.faceboock.ro/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82431.m3u8
-#EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Digi Sport 4 (Rumania) (🇷🇴)
-http://update1.faceboock.ro/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/82432.m3u8
 #EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Eurosport 1 (España) 
 http://91.146.94.234:10001/play/a05n
 #EXTINF:-1 tvg-id="F1 TV" tvg-name="F1 TV" tvg-logo="" group-title="SPORT",Eurosport 2 (España) (🇪🇸)
@@ -4809,26 +4535,12 @@ http://38.210.3.64:8090/play/a083/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN SD" tvg-name="ESPN SD" tvg-logo="" group-title="SPORT",ESPN SD
 http://corgol.com@181.114.57.246:4000/play/3jZRN66nDhuZwLbW
-#EXTINF:-1 tvg-id="USA: ESPN" tvg-name="USA: ESPN" tvg-logo="http://puddintap.click/ico/IPTVLogo/espn.png" group-title="SPORT",USA: ESPN
-http://zerotwo.access.ly:2096/piedmont20/7013459286/787949
-#EXTINF:-1 tvg-id="USA: ESPN 2" tvg-name="USA: ESPN 2" tvg-logo="https://puddintap.click/ico/USA/ESPN2.png" group-title="SPORT",USA: ESPN 2
-http://zerotwo.access.ly:2096/piedmont20/7013459286/775901
-#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",USA: ESPN DEPORTES
-http://zerotwo.access.ly:2096/bama1/7908346251/815002
-#EXTINF:-1 tvg-id="USA: ESPN NEWS" tvg-name="USA: ESPN NEWS" tvg-logo="https://puddintap.click/ico/USA/ESPNews.png" group-title="SPORT",USA: ESPN NEWS
-http://zerotwo.access.ly:2096/bama1/7908346251/815003
-#EXTINF:-1 tvg-id="USA: ESPN U" tvg-name="USA: ESPN U" tvg-logo="https://puddintap.click/ico/USA/ESPNU.png" group-title="SPORT",USA: ESPN U
-http://zerotwo.access.ly:2096/bama1/7908346251/815004
 #EXTINF:-1 tvg-id="NBC Sports NOW" tvg-name="NBC Sports NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99993008/600x200.png?type=white_cropped" group-title="SPORT",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008&ads.asnw=169843&ads.afid=380753925&ads.sfid=17667876&ads.csid=lgchannels_us_nbcusports_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.channelId=99993008&ads._fw_ifa_type=dpid
 #EXTINF:-1 tvg-id="Fubo Sports" tvg-name="Fubo Sports" tvg-logo="https://img.platform.wurl.dev/channel/1358/lg/2b0c5b/LG-Logo-PNG-100x100_v1.png" group-title="SPORT",Fubo Sports
 https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="FUBO Sports" tvg-name="FUBO Sports" tvg-logo="https://img.platform.wurl.dev/channel/1358/lg/2b0c5b/LG-Logo-PNG-100x100_v1.png" group-title="SPORT",FUBO Sports
 https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="blue ZOOM F" tvg-name="blue ZOOM F" tvg-logo="" group-title="SPORT",blue ZOOM F
-https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
-#EXTINF:-1 tvg-id="blue ZOOM D" tvg-name="blue ZOOM D" tvg-logo="" group-title="SPORT",blue ZOOM D
-https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports" tvg-name="BeIN Sports" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="SPORT",BeIN Sports
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",Tigo Sports (Guatemala) (🇬🇹)
